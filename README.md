@@ -14,19 +14,20 @@ Clone the project, then install the dependencies.
 git clone https://github.com/CHBrianLiu/leetcode-problem-sorter.git && cd leetcode-problem-sorter
 python3 -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt
+alias leetcode-sorter="python -m leetcode-sorter"
 ```
 
 To list all non-paid-only problems sorted by the number of likes.
 > Warning: this may encounter the HTTP 429. Not recommended.
 
 ```bash
-python leetcode-sorter
+leetcode-sorter
 ```
 
 Use the filter options.
 
 ```base
-python leetcode-sorter --difficulty easy
+leetcode-sorter --difficulty easy
 ```
 
 ### Available options
