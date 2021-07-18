@@ -8,14 +8,14 @@ from .problem import ProblemHandler
 def main(
     difficulty: Optional[str] = None,
     include_paid_only: bool = False,
-    include_done: bool = True,
+    exclude_done: bool = False,
     sort_by: str = "likes",
     reverse: bool = False,
 ):
     handler = ProblemHandler.create_by_online_index(
         difficulty=difficulty,
         include_paid_only=include_paid_only,
-        include_done=include_done,
+        include_done=exclude_done,
         sort_by=sort_by,
         reverse=reverse,
     )

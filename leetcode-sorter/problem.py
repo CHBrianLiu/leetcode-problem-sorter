@@ -15,7 +15,7 @@ class ProblemHandler:
     problems: List[Problem]
     difficulty: Optional[str]
     include_paid_only: bool
-    include_done: bool
+    exclude_done: bool
     sort_by: str
     reverse: bool
 
@@ -31,7 +31,7 @@ class ProblemHandler:
         self.problems = problems
         self.difficulty = difficulty
         self.include_paid_only = include_paid_only
-        self.include_done = include_done
+        self.exclude_done = include_done
         self.sort_by = sort_by
         self.reverse = reverse
 
@@ -74,7 +74,7 @@ class ProblemHandler:
         return not self.include_paid_only and problem.paid_only
 
     def __undone_only_not_qualified(self, problem: Problem):
-        return not self.include_done and problem.progress == 3
+        return self.exclude_done and problem.progress == 3
 
     def retrieve_likes_and_dislikes(self):
         transport = RequestsHTTPTransport(
