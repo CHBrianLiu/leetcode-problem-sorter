@@ -1,0 +1,121 @@
+from typing import List, Optional
+
+import requests
+from gql import Client, gql
+from gql.transport.requests import RequestsHTTPTransport
+
+from .models.index import DifficultyLevel, UserStat
+from .models.problem import Problem
+
+
+class ProblemHandler:
+    PROBLEM_LIST_API_ENDPOINT = "https://leetcode.com/api/problems/algorithms/"
+    GRAPH_QL_ENDPOINT = "https://leetcode.com/graphql"
+
+    problems: List[Problem]
+    difficulty: Optional[str]
+    include_paid_only: bool
+    include_done: bool
+    sort_by: str
+    reverse: bool
+
+    def __init__(
+        self,
+        problems: List[Problem],
+        difficulty: Optional[str] = None,
+        include_paid_only: bool = False,
+        include_done: bool = True,
+        sort_by: str = "likes",
+        reverse: bool = False,
+    ) -> None:
+        self.problems = problems
+        self.difficulty = difficulty
+        self.include_paid_only = include_paid_only
+        self.include_done = include_done
+        self.sort_by = sort_by
+        self.reverse = reverse
+
+    @classmethod
+    def create_by_online_index(cls, **kwargs):
+        stat = cls.get_latest_problems()
+        problems = []  # type: List[Problem]
+        for problem in stat.stat_status_pairs:
+            problems.append(Problem.parse_obj(problem.dict()))
+        return cls(problems, **kwargs)
+
+    # create_by_local_index(path: str) -> ProblemHandler
+    @classmethod
+    def get_latest_problems(cls) -> UserStat:
+        with requests.get(cls.PROBLEM_LIST_API_ENDPOINT) as response:
+            if not response.ok:
+                raise RuntimeError(
+                    "Failed to download the problem list from the endpoint."
+                )
+            return UserStat.parse_raw(response.text)
+
+    def filter_problems(self):
+        for index in range(len(self.problems) - 1, -1, -1):
+            problem = self.problems[index]
+            if (
+                self.__difficulty_not_qualified(problem)
+                or self.__paid_only_filter_not_qualified(problem)
+                or self.__undone_only_not_qualified(problem)
+            ):
+                self.problems.pop(index)
+                continue
+
+    def __difficulty_not_qualified(self, problem: Problem):
+        return (
+            self.difficulty is not None
+            and problem.difficulty.level != DifficultyLevel[self.difficulty]
+        )
+
+    def __paid_only_filter_not_qualified(self, problem: Problem):
+        return not self.include_paid_only and problem.paid_only
+
+    def __undone_only_not_qualified(self, problem: Problem):
+        return not self.include_done and problem.progress == 3
+
+    def retrieve_likes_and_dislikes(self):
+        transport = RequestsHTTPTransport(
+            url=self.GRAPH_QL_ENDPOINT, verify=True, retries=3
+        )
+        client = Client(transport=transport, fetch_schema_from_transport=True)
+        query = gql(
+            "query questionData($titleSlug: String!) {"
+            "  question(titleSlug: $titleSlug) {"
+            "    likes "
+            "    dislikes "
+            "  }"
+            "}"
+        )
+        for problem in self.problems:
+            result = client.execute(
+                query, {"titleSlug": problem.stat.question__title_slug}
+            )
+            problem.likes = result["question"]["likes"]
+            problem.dislikes = result["question"]["dislikes"]
+
+    def sort_problems(self):
+        sort_reverse = not self.reverse
+        if self.sort_by == "likes":
+            self.problems.sort(key=lambda problem: problem.likes, reverse=sort_reverse)
+        elif self.sort_by == "dislikes":
+            self.problems.sort(
+                key=lambda problem: problem.dislikes, reverse=sort_reverse
+            )
+        elif self.sort_by == "ratio":
+            self.problems.sort(
+                key=lambda problem: problem.likes / problem.dislikes,
+                reverse=sort_reverse,
+            )
+
+    def print_problems(self):
+        for problem in self.problems:
+            print(
+                f"{problem.stat.question_id}. "
+                f"{problem.stat.question__title}, "
+                f"likes: {problem.likes}, "
+                f"dislikes: {problem.dislikes}. "
+                f"Link: https://leetcode.com/problems/{problem.stat.question__title_slug}"
+            )
