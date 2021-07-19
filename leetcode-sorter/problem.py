@@ -1,4 +1,4 @@
-from typing import List, Optional
+from typing import Dict, List, Optional, Union
 
 import requests
 from gql import Client, gql
@@ -77,24 +77,28 @@ class ProblemHandler:
         return self.exclude_done and problem.progress == 3
 
     def retrieve_likes_and_dislikes(self):
+        problems_info = self.__get_all_problems_like_dislike_info()
+        problem_map = {problem.stat.question_id: problem for problem in self.problems}
+        for info in problems_info:
+            if info.get("questionId", "") in problem_map:
+                problem_map[info["questionId"]].likes = info["likes"]
+                problem_map[info["questionId"]].dislikes = info["dislikes"]
+
+    def __get_all_problems_like_dislike_info(self) -> List[Dict[str, Union[str, int]]]:
         transport = RequestsHTTPTransport(
             url=self.GRAPH_QL_ENDPOINT, verify=True, retries=3
         )
         client = Client(transport=transport, fetch_schema_from_transport=True)
         query = gql(
-            "query questionData($titleSlug: String!) {"
-            "  question(titleSlug: $titleSlug) {"
+            "query questionData {"
+            "  allQuestions {"
+            "    questionId "
             "    likes "
             "    dislikes "
             "  }"
             "}"
         )
-        for problem in self.problems:
-            result = client.execute(
-                query, {"titleSlug": problem.stat.question__title_slug}
-            )
-            problem.likes = result["question"]["likes"]
-            problem.dislikes = result["question"]["dislikes"]
+        return client.execute(query)["allQuestions"]
 
     def sort_problems(self):
         sort_reverse = not self.reverse
