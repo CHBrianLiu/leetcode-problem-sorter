@@ -110,7 +110,7 @@ class ProblemHandler:
             )
         elif self.sort_by == "ratio":
             self.problems.sort(
-                key=lambda problem: problem.likes / problem.dislikes,
+                key=lambda problem: problem.likes / (problem.dislikes if problem.dislikes > 0 else 1),
                 reverse=sort_reverse,
             )
 
