@@ -18,7 +18,6 @@ alias leetcode-sorter="python -m leetcode-sorter"
 ```
 
 To list all non-paid-only problems sorted by the number of likes.
-> Warning: this may encounter the HTTP 429. Not recommended.
 
 ```bash
 leetcode-sorter
