@@ -15,7 +15,7 @@ class Difficulty(BaseModel):
 
 
 class Stat(BaseModel):
-    question_id: int
+    question_id: str
     question__article__live: Optional[bool]
     question__article__slug: Optional[str]
     question__article__has_video_solution: Optional[bool]
