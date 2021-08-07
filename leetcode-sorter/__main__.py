@@ -11,6 +11,7 @@ def main(
     exclude_done: bool = False,
     sort_by: str = "likes",
     reverse: bool = False,
+    csv_path: Optional[str] = None,
 ):
     handler = ProblemHandler.create_by_online_index(
         difficulty=difficulty,
@@ -22,7 +23,10 @@ def main(
     handler.filter_problems()
     handler.retrieve_likes_and_dislikes()
     handler.sort_problems()
-    handler.print_problems()
+    if csv_path is not None and csv_path:
+        handler.export_to_csv(csv_path)
+    else:
+        handler.print_problems()
 
 
 if __name__ == "__main__":

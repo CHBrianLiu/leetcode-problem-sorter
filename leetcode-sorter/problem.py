@@ -1,3 +1,5 @@
+import csv
+import os
 from typing import Dict, List, Optional, Union
 
 import requests
@@ -110,7 +112,8 @@ class ProblemHandler:
             )
         elif self.sort_by == "ratio":
             self.problems.sort(
-                key=lambda problem: problem.likes / (problem.dislikes if problem.dislikes > 0 else 1),
+                key=lambda problem: problem.likes
+                / (problem.dislikes if problem.dislikes > 0 else 1),
                 reverse=sort_reverse,
             )
 
@@ -123,3 +126,23 @@ class ProblemHandler:
                 f"dislikes: {problem.dislikes}. "
                 f"Link: https://leetcode.com/problems/{problem.stat.question__title_slug}"
             )
+
+    def export_to_csv(self, path: str):
+        full_path = os.path.join(os.path.curdir, path)
+        with open(full_path, "w") as csvfile:
+            fields = ["id", "title", "title_slug", "likes", "dislikes", "ratio"]
+            writer = csv.DictWriter(csvfile, fieldnames=fields)
+            writer.writeheader()
+            for problem in self.problems:
+                writer.writerow(
+                    {
+                        "id": problem.stat.question_id,
+                        "title": problem.stat.question__title,
+                        "title_slug": problem.stat.question__title_slug,
+                        "likes": problem.likes,
+                        "dislikes": problem.dislikes,
+                        "ratio": problem.likes / problem.dislikes
+                        if problem.dislikes
+                        else 1000,
+                    }
+                )
