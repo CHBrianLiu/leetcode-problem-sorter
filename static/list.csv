@@ -1,0 +1,1771 @@
+id,title,title_slug,difficulty,likes,dislikes,ratio
+1,Two Sum,two-sum,easy,23335,778,29.993573264781492
+3,Longest Substring Without Repeating Characters,longest-substring-without-repeating-characters,medium,16369,790,20.72025316455696
+53,Maximum Subarray,maximum-subarray,easy,13543,639,21.194053208137714
+42,Trapping Rain Water,trapping-rain-water,hard,13222,189,69.95767195767196
+2,Add Two Numbers,add-two-numbers,medium,13193,2969,4.443583698214887
+5,Longest Palindromic Substring,longest-palindromic-substring,medium,12501,761,16.42706964520368
+15,3Sum,3sum,medium,12216,1195,10.222594142259414
+4,Median of Two Sorted Arrays,median-of-two-sorted-arrays,hard,11658,1631,7.1477621091355
+11,Container With Most Water,container-with-most-water,medium,11015,761,14.47437582128778
+121,Best Time to Buy and Sell Stock,best-time-to-buy-and-sell-stock,easy,9927,402,24.69402985074627
+200,Number of Islands,number-of-islands,medium,9584,263,36.44106463878327
+146,LRU Cache,lru-cache,medium,9490,376,25.23936170212766
+22,Generate Parentheses,generate-parentheses,medium,9174,362,25.34254143646409
+33,Search in Rotated Sorted Array,search-in-rotated-sorted-array,medium,9067,721,12.575589459084604
+287,Find the Duplicate Number,find-the-duplicate-number,medium,8681,908,9.560572687224669
+56,Merge Intervals,merge-intervals,medium,8651,409,21.151589242053788
+560,Subarray Sum Equals K,subarray-sum-equals-k,medium,8477,289,29.33217993079585
+20,Valid Parentheses,valid-parentheses,easy,8459,340,24.879411764705882
+300,Longest Increasing Subsequence,longest-increasing-subsequence,medium,8413,182,46.22527472527472
+238,Product of Array Except Self,product-of-array-except-self,medium,8353,594,14.062289562289562
+23,Merge k Sorted Lists,merge-k-sorted-lists,hard,8158,376,21.6968085106383
+206,Reverse Linked List,reverse-linked-list,easy,7948,147,54.06802721088435
+322,Coin Change,coin-change,medium,7870,216,36.43518518518518
+198,House Robber,house-robber,medium,7869,204,38.5735294117647
+21,Merge Two Sorted Lists,merge-two-sorted-lists,easy,7806,830,9.404819277108434
+152,Maximum Product Subarray,maximum-product-subarray,medium,7732,246,31.43089430894309
+70,Climbing Stairs,climbing-stairs,easy,7559,229,33.00873362445415
+139,Word Break,word-break,medium,7541,354,21.30225988700565
+76,Minimum Window Substring,minimum-window-substring,hard,7476,471,15.872611464968152
+55,Jump Game,jump-game,medium,7273,452,16.09070796460177
+46,Permutations,permutations,medium,7030,140,50.214285714285715
+39,Combination Sum,combination-sum,medium,6929,169,41.0
+17,Letter Combinations of a Phone Number,letter-combinations-of-a-phone-number,medium,6929,558,12.417562724014337
+101,Symmetric Tree,symmetric-tree,easy,6924,180,38.46666666666667
+98,Validate Binary Search Tree,validate-binary-search-tree,medium,6915,734,9.420980926430518
+136,Single Number,single-number,easy,6877,225,30.564444444444444
+239,Sliding Window Maximum,sliding-window-maximum,hard,6812,255,26.71372549019608
+236,Lowest Common Ancestor of a Binary Tree,lowest-common-ancestor-of-a-binary-tree,medium,6804,221,30.787330316742082
+84,Largest Rectangle in Histogram,largest-rectangle-in-histogram,hard,6749,114,59.20175438596491
+207,Course Schedule,course-schedule,medium,6679,281,23.768683274021353
+78,Subsets,subsets,medium,6675,120,55.625
+34,Find First and Last Position of Element in Sorted Array,find-first-and-last-position-of-element-in-sorted-array,medium,6623,220,30.104545454545455
+124,Binary Tree Maximum Path Sum,binary-tree-maximum-path-sum,hard,6610,426,15.51643192488263
+41,First Missing Positive,first-missing-positive,hard,6578,1086,6.057090239410681
+31,Next Permutation,next-permutation,medium,6576,2165,3.0374133949191684
+79,Word Search,word-search,medium,6460,256,25.234375
+215,Kth Largest Element in an Array,kth-largest-element-in-an-array,medium,6429,385,16.698701298701298
+128,Longest Consecutive Sequence,longest-consecutive-sequence,medium,6380,295,21.627118644067796
+160,Intersection of Two Linked Lists,intersection-of-two-linked-lists,easy,6364,694,9.170028818443804
+10,Regular Expression Matching,regular-expression-matching,hard,6348,905,7.0143646408839775
+75,Sort Colors,sort-colors,medium,6309,333,18.945945945945947
+72,Edit Distance,edit-distance,hard,6295,74,85.06756756756756
+19,Remove Nth Node From End of List,remove-nth-node-from-end-of-list,medium,6292,341,18.451612903225808
+49,Group Anagrams,group-anagrams,medium,6259,250,25.036
+283,Move Zeroes,move-zeroes,easy,6177,180,34.31666666666667
+105,Construct Binary Tree from Preorder and Inorder Traversal,construct-binary-tree-from-preorder-and-inorder-traversal,medium,6154,147,41.863945578231295
+234,Palindrome Linked List,palindrome-linked-list,easy,6057,461,13.13882863340564
+62,Unique Paths,unique-paths,medium,5943,252,23.583333333333332
+169,Majority Element,majority-element,easy,5930,278,21.33093525179856
+226,Invert Binary Tree,invert-binary-tree,easy,5897,83,71.04819277108433
+48,Rotate Image,rotate-image,medium,5869,376,15.60904255319149
+138,Copy List with Random Pointer,copy-list-with-random-pointer,medium,5807,856,6.783878504672897
+32,Longest Valid Parentheses,longest-valid-parentheses,hard,5806,200,29.03
+437,Path Sum III,path-sum-iii,medium,5733,329,17.425531914893618
+347,Top K Frequent Elements,top-k-frequent-elements,medium,5695,285,19.982456140350877
+127,Word Ladder,word-ladder,hard,5667,1471,3.852481305234534
+155,Min Stack,min-stack,easy,5644,508,11.11023622047244
+394,Decode String,decode-string,medium,5619,256,21.94921875
+102,Binary Tree Level Order Traversal,binary-tree-level-order-traversal,medium,5441,115,47.31304347826087
+543,Diameter of Binary Tree,diameter-of-binary-tree,easy,5388,330,16.327272727272728
+64,Minimum Path Sum,minimum-path-sum,medium,5362,87,61.632183908045974
+7,Reverse Integer,reverse-integer,easy,5353,8005,0.6687070580886946
+94,Binary Tree Inorder Traversal,binary-tree-inorder-traversal,easy,5347,228,23.45175438596491
+240,Search a 2D Matrix II,search-a-2d-matrix-ii,medium,5338,98,54.46938775510204
+621,Task Scheduler,task-scheduler,medium,5322,978,5.441717791411043
+189,Rotate Array,rotate-array,medium,5241,972,5.3919753086419755
+45,Jump Game II,jump-game-ii,medium,5233,206,25.402912621359224
+96,Unique Binary Search Trees,unique-binary-search-trees,medium,5177,190,27.24736842105263
+141,Linked List Cycle,linked-list-cycle,easy,5169,645,8.013953488372094
+221,Maximal Square,maximal-square,medium,5148,118,43.6271186440678
+768,Partition Labels,partition-labels,medium,5126,208,24.64423076923077
+114,Flatten Binary Tree to Linked List,flatten-binary-tree-to-linked-list,medium,5090,425,11.976470588235294
+416,Partition Equal Subset Sum,partition-equal-subset-sum,medium,5074,96,52.854166666666664
+208,Implement Trie (Prefix Tree),implement-trie-prefix-tree,medium,5039,75,67.18666666666667
+295,Find Median from Data Stream,find-median-from-data-stream,hard,4992,88,56.72727272727273
+14,Longest Common Prefix,longest-common-prefix,easy,4983,2398,2.0779816513761467
+122,Best Time to Buy and Sell Stock II,best-time-to-buy-and-sell-stock-ii,easy,4962,2126,2.3339604891815617
+91,Decode Ways,decode-ways,medium,4961,3544,1.3998306997742664
+279,Perfect Squares,perfect-squares,medium,4902,249,19.686746987951807
+617,Merge Two Binary Trees,merge-two-binary-trees,easy,4835,206,23.47087378640777
+85,Maximal Rectangle,maximal-rectangle,hard,4830,91,53.07692307692308
+494,Target Sum,target-sum,medium,4826,190,25.4
+647,Palindromic Substrings,palindromic-substrings,medium,4813,143,33.65734265734266
+739,Daily Temperatures,daily-temperatures,medium,4809,138,34.84782608695652
+297,Serialize and Deserialize Binary Tree,serialize-and-deserialize-binary-tree,hard,4806,214,22.457943925233646
+148,Sort List,sort-list,medium,4789,187,25.609625668449198
+142,Linked List Cycle II,linked-list-cycle-ii,medium,4772,340,14.035294117647059
+438,Find All Anagrams in a String,find-all-anagrams-in-a-string,medium,4661,209,22.301435406698566
+25,Reverse Nodes in k-Group,reverse-nodes-in-k-group,hard,4627,429,10.785547785547786
+448,Find All Numbers Disappeared in an Array,find-all-numbers-disappeared-in-an-array,easy,4599,319,14.41692789968652
+108,Convert Sorted Array to Binary Search Tree,convert-sorted-array-to-binary-search-tree,easy,4593,299,15.361204013377927
+338,Counting Bits,counting-bits,easy,4560,232,19.655172413793103
+199,Binary Tree Right Side View,binary-tree-right-side-view,medium,4556,245,18.59591836734694
+337,House Robber III,house-robber-iii,medium,4533,73,62.0958904109589
+54,Spiral Matrix,spiral-matrix,medium,4506,696,6.474137931034483
+104,Maximum Depth of Binary Tree,maximum-depth-of-binary-tree,easy,4500,103,43.689320388349515
+26,Remove Duplicates from Sorted Array,remove-duplicates-from-sorted-array,easy,4493,7714,0.5824474980554836
+230,Kth Smallest Element in a BST,kth-smallest-element-in-a-bst,medium,4451,95,46.85263157894737
+92,Reverse Linked List II,reverse-linked-list-ii,medium,4439,225,19.72888888888889
+378,Kth Smallest Element in a Sorted Matrix,kth-smallest-element-in-a-sorted-matrix,medium,4432,205,21.619512195121953
+210,Course Schedule II,course-schedule-ii,medium,4424,182,24.307692307692307
+209,Minimum Size Subarray Sum,minimum-size-subarray-sum,medium,4381,149,29.40268456375839
+315,Count of Smaller Numbers After Self,count-of-smaller-numbers-after-self,hard,4299,129,33.325581395348834
+406,Queue Reconstruction by Height,queue-reconstruction-by-height,medium,4279,470,9.104255319148937
+893,All Nodes Distance K in Binary Tree,all-nodes-distance-k-in-binary-tree,medium,4273,81,52.75308641975309
+24,Swap Nodes in Pairs,swap-nodes-in-pairs,medium,4240,227,18.6784140969163
+581,Shortest Unsorted Continuous Subarray,shortest-unsorted-continuous-subarray,medium,4228,189,22.37037037037037
+212,Word Search II,word-search-ii,hard,4194,152,27.592105263157894
+253,Meeting Rooms II,meeting-rooms-ii,medium,4175,74,56.41891891891892
+18,4Sum,4sum,medium,4150,491,8.45213849287169
+35,Search Insert Position,search-insert-position,easy,4135,308,13.425324675324676
+123,Best Time to Buy and Sell Stock III,best-time-to-buy-and-sell-stock-iii,hard,4134,94,43.97872340425532
+131,Palindrome Partitioning,palindrome-partitioning,medium,4099,127,32.275590551181104
+73,Set Matrix Zeroes,set-matrix-zeroes,medium,4078,394,10.350253807106599
+16,3Sum Closest,3sum-closest,medium,4077,195,20.907692307692308
+153,Find Minimum in Rotated Sorted Array,find-minimum-in-rotated-sorted-array,medium,4052,321,12.623052959501557
+110,Balanced Binary Tree,balanced-binary-tree,easy,4045,247,16.37651821862348
+312,Burst Balloons,burst-balloons,hard,4015,117,34.31623931623932
+309,Best Time to Buy and Sell Stock with Cooldown,best-time-to-buy-and-sell-stock-with-cooldown,medium,4011,131,30.61832061068702
+173,Binary Search Tree Iterator,binary-search-tree-iterator,medium,4004,329,12.170212765957446
+442,Find All Duplicates in an Array,find-all-duplicates-in-an-array,medium,4002,194,20.628865979381445
+103,Binary Tree Zigzag Level Order Traversal,binary-tree-zigzag-level-order-traversal,medium,3976,135,29.451851851851853
+74,Search a 2D Matrix,search-a-2d-matrix,medium,3975,212,18.75
+1036,Rotting Oranges,rotting-oranges,medium,3970,223,17.80269058295964
+116,Populating Next Right Pointers in Each Node,populating-next-right-pointers-in-each-node,medium,3948,178,22.179775280898877
+695,Max Area of Island,max-area-of-island,medium,3936,116,33.93103448275862
+380,Insert Delete GetRandom O(1),insert-delete-getrandom-o1,medium,3916,229,17.100436681222707
+572,Subtree of Another Tree,subtree-of-another-tree,easy,3869,189,20.47089947089947
+747,Min Cost Climbing Stairs,min-cost-climbing-stairs,easy,3857,790,4.8822784810126585
+329,Longest Increasing Path in a Matrix,longest-increasing-path-in-a-matrix,hard,3817,66,57.833333333333336
+51,N-Queens,n-queens,hard,3811,119,32.02521008403362
+399,Evaluate Division,evaluate-division,medium,3810,300,12.7
+235,Lowest Common Ancestor of a Binary Search Tree,lowest-common-ancestor-of-a-binary-search-tree,easy,3792,147,25.79591836734694
+100,Same Tree,same-tree,easy,3766,96,39.229166666666664
+9,Palindrome Number,palindrome-number,easy,3735,1813,2.0601213458356313
+1250,Longest Common Subsequence,longest-common-subsequence,medium,3722,43,86.55813953488372
+402,Remove K Digits,remove-k-digits,medium,3722,160,23.2625
+301,Remove Invalid Parentheses,remove-invalid-parentheses,hard,3713,173,21.46242774566474
+516,Longest Palindromic Subsequence,longest-palindromic-subsequence,medium,3692,225,16.40888888888889
+112,Path Sum,path-sum,easy,3689,658,5.6063829787234045
+162,Find Peak Element,find-peak-element,medium,3680,2929,1.2564015022191874
+143,Reorder List,reorder-list,medium,3652,157,23.261146496815286
+328,Odd Even Linked List,odd-even-linked-list,medium,3602,347,10.380403458213257
+204,Count Primes,count-primes,easy,3601,851,4.2314923619271445
+140,Word Break II,word-break-ii,hard,3590,449,7.99554565701559
+109,Convert Sorted List to Binary Search Tree,convert-sorted-list-to-binary-search-tree,medium,3584,103,34.79611650485437
+202,Happy Number,happy-number,easy,3577,563,6.353463587921847
+518,Coin Change 2,coin-change-2,medium,3562,80,44.525
+133,Clone Graph,clone-graph,medium,3548,1848,1.91991341991342
+134,Gas Station,gas-station,medium,3543,461,7.685466377440347
+1014,K Closest Points to Origin,k-closest-points-to-origin,medium,3536,169,20.923076923076923
+179,Largest Number,largest-number,medium,3529,341,10.348973607038124
+547,Number of Provinces,number-of-provinces,medium,3514,198,17.747474747474747
+310,Minimum Height Trees,minimum-height-trees,medium,3506,141,24.865248226950353
+268,Missing Number,missing-number,easy,3480,2608,1.334355828220859
+803,Cheapest Flights Within K Stops,cheapest-flights-within-k-stops,medium,3476,137,25.37226277372263
+95,Unique Binary Search Trees II,unique-binary-search-trees-ii,medium,3451,225,15.337777777777777
+47,Permutations II,permutations-ii,medium,3447,82,42.03658536585366
+113,Path Sum II,path-sum-ii,medium,3443,95,36.242105263157896
+44,Wildcard Matching,wildcard-matching,hard,3434,161,21.32919254658385
+698,Partition to K Equal Sum Subsets,partition-to-k-equal-sum-subsets,medium,3431,202,16.985148514851485
+120,Triangle,triangle,medium,3430,338,10.14792899408284
+450,Delete Node in a BST,delete-node-in-a-bst,medium,3426,116,29.53448275862069
+692,Top K Frequent Words,top-k-frequent-words,medium,3392,214,15.850467289719626
+57,Insert Interval,insert-interval,medium,3372,273,12.351648351648352
+778,Reorganize String,reorganize-string,medium,3347,155,21.593548387096774
+37,Sudoku Solver,sudoku-solver,hard,3345,116,28.836206896551722
+63,Unique Paths II,unique-paths-ii,medium,3327,310,10.73225806451613
+82,Remove Duplicates from Sorted List II,remove-duplicates-from-sorted-list-ii,medium,3325,130,25.576923076923077
+387,First Unique Character in a String,first-unique-character-in-a-string,easy,3314,162,20.45679012345679
+40,Combination Sum II,combination-sum-ii,medium,3312,95,34.863157894736844
+211,Design Add and Search Words Data Structure,design-add-and-search-words-data-structure,medium,3294,138,23.869565217391305
+1025,Minimum Cost For Tickets,minimum-cost-for-tickets,medium,3286,62,53.0
+213,House Robber II,house-robber-ii,medium,3278,69,47.507246376811594
+222,Count Complete Tree Nodes,count-complete-tree-nodes,medium,3275,272,12.040441176470589
+90,Subsets II,subsets-ii,medium,3252,121,26.876033057851238
+130,Surrounded Regions,surrounded-regions,medium,3216,846,3.801418439716312
+665,Non-decreasing Array,non-decreasing-array,medium,3209,646,4.96749226006192
+118,Pascal's Triangle,pascals-triangle,easy,3196,153,20.88888888888889
+67,Add Binary,add-binary,easy,3192,383,8.33420365535248
+229,Majority Element II,majority-element-ii,medium,3179,235,13.527659574468085
+218,The Skyline Problem,the-skyline-problem,hard,3139,171,18.35672514619883
+525,Contiguous Array,contiguous-array,medium,3135,150,20.9
+203,Remove Linked List Elements,remove-linked-list-elements,easy,3118,131,23.801526717557252
+167,Two Sum II - Input array is sorted,two-sum-ii-input-array-is-sorted,easy,3105,765,4.0588235294117645
+410,Split Array Largest Sum,split-array-largest-sum,hard,3077,99,31.08080808080808
+106,Construct Binary Tree from Inorder and Postorder Traversal,construct-binary-tree-from-inorder-and-postorder-traversal,medium,3072,56,54.857142857142854
+463,Island Perimeter,island-perimeter,easy,3063,156,19.634615384615383
+669,Trim a Binary Search Tree,trim-a-binary-search-tree,medium,3049,212,14.382075471698114
+237,Delete Node in a Linked List,delete-node-in-a-linked-list,easy,3047,9746,0.3126410835214447
+332,Reconstruct Itinerary,reconstruct-itinerary,medium,3046,1372,2.2201166180758016
+801,Is Graph Bipartite?,is-graph-bipartite,medium,3022,241,12.53941908713693
+503,Next Greater Element II,next-greater-element-ii,medium,3014,102,29.54901960784314
+289,Game of Life,game-of-life,medium,3009,360,8.358333333333333
+658,Find K Closest Elements,find-k-closest-elements,medium,3001,352,8.525568181818182
+680,Valid Palindrome II,valid-palindrome-ii,easy,3000,186,16.129032258064516
+542,01 Matrix,01-matrix,medium,3000,143,20.97902097902098
+242,Valid Anagram,valid-anagram,easy,2997,173,17.32369942196532
+83,Remove Duplicates from Sorted List,remove-duplicates-from-sorted-list,easy,2994,154,19.441558441558442
+36,Valid Sudoku,valid-sudoku,medium,2987,587,5.088586030664395
+395,Longest Substring with At Least K Repeating Characters,longest-substring-with-at-least-k-repeating-characters,medium,2971,285,10.424561403508772
+316,Remove Duplicate Letters,remove-duplicate-letters,medium,2968,211,14.066350710900474
+126,Word Ladder II,word-ladder-ii,hard,2954,312,9.467948717948717
+264,Ugly Number II,ugly-number-ii,medium,2953,175,16.874285714285715
+99,Recover Binary Search Tree,recover-binary-search-tree,medium,2944,111,26.52252252252252
+744,Network Delay Time,network-delay-time,medium,2942,255,11.537254901960784
+540,Single Element in a Sorted Array,single-element-in-a-sorted-array,medium,2941,88,33.42045454545455
+137,Single Number II,single-number-ii,medium,2925,418,6.997607655502392
+257,Binary Tree Paths,binary-tree-paths,easy,2923,147,19.8843537414966
+145,Binary Tree Postorder Traversal,binary-tree-postorder-traversal,easy,2922,122,23.950819672131146
+908,Middle of the Linked List,middle-of-the-linked-list,easy,2906,81,35.876543209876544
+97,Interleaving String,interleaving-string,medium,2906,154,18.87012987012987
+392,Is Subsequence,is-subsequence,easy,2905,251,11.573705179282868
+782,Jewels and Stones,jewels-and-stones,easy,2896,440,6.581818181818182
+43,Multiply Strings,multiply-strings,medium,2885,1136,2.539612676056338
+61,Rotate List,rotate-list,medium,2881,1183,2.4353338968723586
+1046,Max Consecutive Ones III,max-consecutive-ones-iii,medium,2861,41,69.78048780487805
+424,Longest Repeating Character Replacement,longest-repeating-character-replacement,medium,2859,128,22.3359375
+1019,Squares of a Sorted Array,squares-of-a-sorted-array,easy,2858,118,24.220338983050848
+714,Best Time to Buy and Sell Stock with Transaction Fee,best-time-to-buy-and-sell-stock-with-transaction-fee,medium,2852,79,36.10126582278481
+654,Maximum Binary Tree,maximum-binary-tree,medium,2827,278,10.16906474820144
+718,Maximum Length of Repeated Subarray,maximum-length-of-repeated-subarray,medium,2819,69,40.85507246376812
+111,Minimum Depth of Binary Tree,minimum-depth-of-binary-tree,easy,2815,849,3.315665488810365
+538,Convert BST to Greater Tree,convert-bst-to-greater-tree,medium,2809,146,19.23972602739726
+50,"Pow(x, n)",powx-n,medium,2803,4107,0.6824933041149257
+188,Best Time to Buy and Sell Stock IV,best-time-to-buy-and-sell-stock-iv,hard,2798,146,19.164383561643834
+721,Accounts Merge,accounts-merge,medium,2797,492,5.684959349593496
+1300,Critical Connections in a Network,critical-connections-in-a-network,hard,2786,128,21.765625
+269,Alien Dictionary,alien-dictionary,hard,2784,540,5.155555555555556
+1021,Distribute Coins in Binary Tree,distribute-coins-in-binary-tree,medium,2783,89,31.269662921348313
+334,Increasing Triplet Subsequence,increasing-triplet-subsequence,medium,2781,173,16.07514450867052
+567,Permutation in String,permutation-in-string,medium,2777,83,33.45783132530121
+874,Backspace String Compare,backspace-string-compare,easy,2772,123,22.536585365853657
+344,Reverse String,reverse-string,easy,2768,814,3.4004914004914006
+28,Implement strStr(),implement-strstr,easy,2757,2626,1.04988575780655
+174,Dungeon Game,dungeon-game,hard,2726,54,50.48148148148148
+975,Range Sum of BST,range-sum-of-bst,easy,2723,305,8.927868852459016
+117,Populating Next Right Pointers in Each Node II,populating-next-right-pointers-in-each-node-ii,medium,2714,208,13.048076923076923
+451,Sort Characters By Frequency,sort-characters-by-frequency,medium,2709,157,17.254777070063696
+684,Redundant Connection,redundant-connection,medium,2708,270,10.02962962962963
+66,Plus One,plus-one,easy,2701,3512,0.7690774487471527
+227,Basic Calculator II,basic-calculator-ii,medium,2679,403,6.647642679900744
+129,Sum Root to Leaf Numbers,sum-root-to-leaf-numbers,medium,2677,65,41.184615384615384
+6,ZigZag Conversion,zigzag-conversion,medium,2668,6415,0.41590023382696806
+713,Subarray Product Less Than K,subarray-product-less-than-k,medium,2662,101,26.356435643564357
+459,Repeated Substring Pattern,repeated-substring-pattern,easy,2659,260,10.226923076923077
+445,Add Two Numbers II,add-two-numbers-ii,medium,2646,207,12.782608695652174
+77,Combinations,combinations,medium,2645,90,29.38888888888889
+60,Permutation Sequence,permutation-sequence,hard,2628,374,7.026737967914438
+144,Binary Tree Preorder Traversal,binary-tree-preorder-traversal,easy,2625,95,27.63157894736842
+1028,Interval List Intersections,interval-list-intersections,medium,2602,69,37.710144927536234
+678,Valid Parenthesis String,valid-parenthesis-string,medium,2597,69,37.63768115942029
+86,Partition List,partition-list,medium,2593,435,5.960919540229885
+350,Intersection of Two Arrays II,intersection-of-two-arrays-ii,easy,2581,544,4.744485294117647
+260,Single Number III,single-number-iii,medium,2579,143,18.034965034965033
+662,Maximum Width of Binary Tree,maximum-width-of-binary-tree,medium,2572,437,5.88558352402746
+456,132 Pattern,132-pattern,medium,2563,152,16.861842105263158
+766,Flatten a Multilevel Doubly Linked List,flatten-a-multilevel-doubly-linked-list,medium,2561,201,12.74129353233831
+377,Combination Sum IV,combination-sum-iv,medium,2556,283,9.031802120141343
+673,Number of Longest Increasing Subsequence,number-of-longest-increasing-subsequence,medium,2553,133,19.195488721804512
+1056,Capacity To Ship Packages Within D Days,capacity-to-ship-packages-within-d-days,medium,2552,62,41.16129032258065
+205,Isomorphic Strings,isomorphic-strings,easy,2551,538,4.741635687732342
+687,Longest Univalue Path,longest-univalue-path,medium,2534,575,4.40695652173913
+278,First Bad Version,first-bad-version,easy,2521,908,2.776431718061674
+1371,Minimum Remove to Make Valid Parentheses,minimum-remove-to-make-valid-parentheses,medium,2520,53,47.54716981132076
+341,Flatten Nested List Iterator,flatten-nested-list-iterator,medium,2519,902,2.792682926829268
+224,Basic Calculator,basic-calculator,hard,2509,223,11.251121076233185
+81,Search in Rotated Sorted Array II,search-in-rotated-sorted-array-ii,medium,2503,608,4.1167763157894735
+241,Different Ways to Add Parentheses,different-ways-to-add-parentheses,medium,2497,135,18.496296296296297
+886,Score of Parentheses,score-of-parentheses,medium,2494,74,33.7027027027027
+417,Pacific Atlantic Water Flow,pacific-atlantic-water-flow,medium,2470,618,3.9967637540453076
+27,Remove Element,remove-element,easy,2452,3897,0.6292019502181165
+435,Non-overlapping Intervals,non-overlapping-intervals,medium,2440,70,34.857142857142854
+1228,Minimum Cost Tree From Leaf Values,minimum-cost-tree-from-leaf-values,medium,2438,174,14.011494252873563
+813,All Paths From Source to Target,all-paths-from-source-to-target,medium,2426,100,24.26
+107,Binary Tree Level Order Traversal II,binary-tree-level-order-traversal-ii,medium,2412,258,9.348837209302326
+354,Russian Doll Envelopes,russian-doll-envelopes,hard,2363,62,38.11290322580645
+461,Hamming Distance,hamming-distance,easy,2360,181,13.03867403314917
+421,Maximum XOR of Two Numbers in an Array,maximum-xor-of-two-numbers-in-an-array,medium,2359,229,10.301310043668122
+653,Two Sum IV - Input is a BST,two-sum-iv-input-is-a-bst,easy,2358,163,14.466257668711657
+69,Sqrt(x),sqrtx,easy,2358,2546,0.9261586802827966
+1402,Count Square Submatrices with All Ones,count-square-submatrices-with-all-ones,medium,2356,38,62.0
+652,Find Duplicate Subtrees,find-duplicate-subtrees,medium,2342,258,9.077519379844961
+460,LFU Cache,lfu-cache,hard,2322,164,14.158536585365853
+733,Flood Fill,flood-fill,easy,2320,268,8.656716417910447
+943,Sum of Subarray Minimums,sum-of-subarray-minimums,medium,2312,137,16.875912408759124
+800,Letter Case Permutation,letter-case-permutation,medium,2307,127,18.165354330708663
+115,Distinct Subsequences,distinct-subsequences,hard,2307,91,25.35164835164835
+125,Valid Palindrome,valid-palindrome,easy,2299,4151,0.5538424476029873
+1129,Longest String Chain,longest-string-chain,medium,2288,119,19.22689075630252
+637,Average of Levels in Binary Tree,average-of-levels-in-binary-tree,easy,2258,211,10.701421800947868
+454,4Sum II,4sum-ii,medium,2257,85,26.55294117647059
+1050,Construct Binary Search Tree from Preorder Traversal,construct-binary-search-tree-from-preorder-traversal,medium,2250,51,44.11764705882353
+735,Asteroid Collision,asteroid-collision,medium,2245,185,12.135135135135135
+373,Find K Pairs with Smallest Sums,find-k-pairs-with-smallest-sums,medium,2239,141,15.879432624113475
+486,Predict the Winner,predict-the-winner,medium,2223,118,18.838983050847457
+336,Palindrome Pairs,palindrome-pairs,hard,2222,205,10.839024390243903
+307,Range Sum Query - Mutable,range-sum-query-mutable,medium,2217,121,18.322314049586776
+132,Palindrome Partitioning II,palindrome-partitioning-ii,hard,2193,63,34.80952380952381
+449,Serialize and Deserialize BST,serialize-and-deserialize-bst,medium,2153,102,21.107843137254903
+474,Ones and Zeroes,ones-and-zeroes,medium,2152,301,7.149501661129568
+753,Open the Lock,open-the-lock,medium,2149,73,29.438356164383563
+871,Keys and Rooms,keys-and-rooms,medium,2148,146,14.712328767123287
+404,Sum of Left Leaves,sum-of-left-leaves,easy,2124,195,10.892307692307693
+80,Remove Duplicates from Sorted Array II,remove-duplicates-from-sorted-array-ii,medium,2114,829,2.5500603136308806
+368,Largest Divisible Subset,largest-divisible-subset,medium,2093,95,22.03157894736842
+892,Shortest Subarray with Sum at Least K,shortest-subarray-with-sum-at-least-k,hard,2087,49,42.59183673469388
+290,Word Pattern,word-pattern,easy,2084,239,8.719665271966527
+407,Trapping Rain Water II,trapping-rain-water-ii,hard,2083,46,45.28260869565217
+216,Combination Sum III,combination-sum-iii,medium,2081,67,31.059701492537314
+12,Integer to Roman,integer-to-roman,medium,2081,3404,0.6113396004700352
+135,Candy,candy,hard,2072,221,9.375565610859729
+724,Find Pivot Index,find-pivot-index,easy,2071,332,6.2379518072289155
+1034,Subarrays with K Different Integers,subarrays-with-k-different-integers,hard,2070,30,69.0
+1207,Delete Nodes And Return Forest,delete-nodes-and-return-forest,medium,2068,60,34.46666666666667
+415,Add Strings,add-strings,easy,2064,415,4.973493975903614
+931,Maximum Frequency Stack,maximum-frequency-stack,hard,2062,38,54.26315789473684
+1128,Remove All Adjacent Duplicates In String,remove-all-adjacent-duplicates-in-string,easy,2061,117,17.615384615384617
+808,Number of Matching Subsequences,number-of-matching-subsequences,medium,2057,117,17.581196581196583
+29,Divide Two Integers,divide-two-integers,medium,2043,7508,0.2721097496004262
+217,Contains Duplicate,contains-duplicate,easy,2034,865,2.351445086705202
+232,Implement Queue using Stacks,implement-queue-using-stacks,easy,2028,176,11.522727272727273
+1482,How Many Numbers Are Smaller Than the Current Number,how-many-numbers-are-smaller-than-the-current-number,easy,2027,46,44.06521739130435
+190,Reverse Bits,reverse-bits,easy,2020,632,3.1962025316455698
+583,Delete Operation for Two Strings,delete-operation-for-two-strings,medium,2019,38,53.13157894736842
+1095,Two City Scheduling,two-city-scheduling,medium,2014,205,9.824390243902439
+150,Evaluate Reverse Polish Notation,evaluate-reverse-polish-notation,medium,2013,553,3.640144665461121
+452,Minimum Number of Arrows to Burst Balloons,minimum-number-of-arrows-to-burst-balloons,medium,2007,73,27.493150684931507
+990,Verifying an Alien Dictionary,verifying-an-alien-dictionary,easy,2002,768,2.6067708333333335
+1008,Binary Tree Cameras,binary-tree-cameras,hard,1998,29,68.89655172413794
+650,2 Keys Keyboard,2-keys-keyboard,medium,1997,138,14.471014492753623
+413,Arithmetic Slices,arithmetic-slices,medium,1990,209,9.52153110047847
+1538,Maximum Points You Can Obtain from Cards,maximum-points-you-can-obtain-from-cards,medium,1987,88,22.579545454545453
+93,Restore IP Addresses,restore-ip-addresses,medium,1976,590,3.3491525423728814
+941,Sort Array By Parity,sort-array-by-parity,easy,1967,99,19.86868686868687
+611,Valid Triangle Number,valid-triangle-number,medium,1967,132,14.901515151515152
+376,Wiggle Subsequence,wiggle-subsequence,medium,1964,82,23.951219512195124
+1016,Subarray Sums Divisible by K,subarray-sums-divisible-by-k,medium,1942,124,15.661290322580646
+832,Binary Tree Pruning,binary-tree-pruning,medium,1939,62,31.274193548387096
+983,Validate Stack Sequences,validate-stack-sequences,medium,1937,35,55.34285714285714
+304,Range Sum Query 2D - Immutable,range-sum-query-2d-immutable,medium,1937,223,8.68609865470852
+151,Reverse Words in a String,reverse-words-in-a-string,medium,1918,3380,0.5674556213017752
+168,Excel Sheet Column Title,excel-sheet-column-title,easy,1896,330,5.745454545454545
+628,Maximum Product of Three Numbers,maximum-product-of-three-numbers,easy,1891,469,4.031982942430703
+371,Sum of Two Integers,sum-of-two-integers,medium,1890,2958,0.6389452332657201
+343,Integer Break,integer-break,medium,1888,281,6.7188612099644125
+171,Excel Sheet Column Number,excel-sheet-column-number,easy,1887,217,8.695852534562212
+59,Spiral Matrix II,spiral-matrix-ii,medium,1880,138,13.623188405797102
+696,Count Binary Substrings,count-binary-substrings,easy,1871,320,5.846875
+740,Delete and Earn,delete-and-earn,medium,1869,139,13.446043165467627
+1029,Vertical Order Traversal of a Binary Tree,vertical-order-traversal-of-a-binary-tree,hard,1856,2668,0.6956521739130435
+907,Koko Eating Bananas,koko-eating-bananas,medium,1854,104,17.826923076923077
+954,Maximum Sum Circular Subarray,maximum-sum-circular-subarray,medium,1851,82,22.573170731707318
+741,Cherry Pickup,cherry-pickup,hard,1850,101,18.316831683168317
+1320,Remove All Adjacent Duplicates in String II,remove-all-adjacent-duplicates-in-string-ii,medium,1848,38,48.63157894736842
+1039,Find the Town Judge,find-the-town-judge,easy,1845,140,13.178571428571429
+214,Shortest Palindrome,shortest-palindrome,hard,1845,156,11.826923076923077
+403,Frog Jump,frog-jump,hard,1817,139,13.071942446043165
+282,Expression Add Operators,expression-add-operators,hard,1814,306,5.928104575163399
+902,Minimum Number of Refueling Stops,minimum-number-of-refueling-stops,hard,1802,36,50.05555555555556
+1114,Binary Search Tree to Greater Sum Tree,binary-search-tree-to-greater-sum-tree,medium,1801,117,15.393162393162394
+340,Longest Substring with At Most K Distinct Characters,longest-substring-with-at-most-k-distinct-characters,medium,1796,60,29.933333333333334
+154,Find Minimum in Rotated Sorted Array II,find-minimum-in-rotated-sorted-array-ii,hard,1793,289,6.204152249134948
+409,Longest Palindrome,longest-palindrome,easy,1791,115,15.57391304347826
+841,Shortest Distance to a Character,shortest-distance-to-a-character,easy,1779,112,15.883928571428571
+493,Reverse Pairs,reverse-pairs,hard,1777,157,11.318471337579618
+784,Insert into a Binary Search Tree,insert-into-a-binary-search-tree,medium,1771,103,17.194174757281555
+1035,Cousins in Binary Tree,cousins-in-binary-tree,easy,1768,103,17.16504854368932
+286,Walls and Gates,walls-and-gates,medium,1764,27,65.33333333333333
+277,Find the Celebrity,find-the-celebrity,medium,1764,176,10.022727272727273
+817,Design HashMap,design-hashmap,easy,1762,192,9.177083333333334
+984,Most Stones Removed with Same Row or Column,most-stones-removed-with-same-row-or-column,medium,1761,476,3.6995798319327733
+930,All Possible Full Binary Trees,all-possible-full-binary-trees,medium,1748,148,11.81081081081081
+220,Contains Duplicate III,contains-duplicate-iii,medium,1748,1812,0.9646799116997793
+659,Split Array into Consecutive Subsequences,split-array-into-consecutive-subsequences,medium,1741,505,3.4475247524752475
+937,Online Stock Span,online-stock-span,medium,1735,182,9.532967032967033
+191,Number of 1 Bits,number-of-1-bits,easy,1731,669,2.587443946188341
+285,Inorder Successor in BST,inorder-successor-in-bst,medium,1730,72,24.02777777777778
+923,Super Egg Drop,super-egg-drop,hard,1721,106,16.235849056603772
+1603,Running Sum of 1d Array,running-sum-of-1d-array,easy,1718,152,11.302631578947368
+1254,Deepest Leaves Sum,deepest-leaves-sum,medium,1716,63,27.238095238095237
+349,Intersection of Two Arrays,intersection-of-two-arrays,easy,1713,1653,1.0362976406533575
+1044,Find Common Characters,find-common-characters,easy,1709,156,10.955128205128204
+1022,Unique Paths III,unique-paths-iii,hard,1703,100,17.03
+865,Robot Room Cleaner,robot-room-cleaner,hard,1700,104,16.346153846153847
+670,Maximum Swap,maximum-swap,medium,1696,98,17.306122448979593
+1013,Fibonacci Number,fibonacci-number,easy,1695,235,7.212765957446808
+1352,Maximum Profit in Job Scheduling,maximum-profit-in-job-scheduling,hard,1693,18,94.05555555555556
+819,Minimum Swaps To Make Sequences Increasing,minimum-swaps-to-make-sequences-increasing,hard,1692,120,14.1
+783,Search in a Binary Search Tree,search-in-a-binary-search-tree,easy,1682,135,12.459259259259259
+922,Possible Bipartition,possible-bipartition,medium,1676,42,39.904761904761905
+971,Shortest Bridge,shortest-bridge,medium,1671,100,16.71
+933,Increasing Order Search Tree,increasing-order-search-tree,easy,1662,547,3.0383912248628886
+605,Can Place Flowers,can-place-flowers,easy,1661,505,3.289108910891089
+792,Binary Search,binary-search,easy,1647,70,23.52857142857143
+363,Max Sum of Rectangle No Larger Than K,max-sum-of-rectangle-no-larger-than-k,hard,1647,100,16.47
+646,Maximum Length of Pair Chain,maximum-length-of-pair-chain,medium,1646,92,17.891304347826086
+480,Sliding Window Median,sliding-window-median,hard,1640,106,15.471698113207546
+273,Integer to English Words,integer-to-english-words,hard,1628,3985,0.4085319949811794
+231,Power of Two,power-of-two,easy,1615,235,6.872340425531915
+314,Binary Tree Vertical Order Traversal,binary-tree-vertical-order-traversal,medium,1614,212,7.613207547169812
+119,Pascal's Triangle II,pascals-triangle-ii,easy,1611,232,6.943965517241379
+1119,Robot Bounded In Circle,robot-bounded-in-circle,medium,1609,413,3.8958837772397095
+164,Maximum Gap,maximum-gap,hard,1602,249,6.433734939759036
+324,Wiggle Sort II,wiggle-sort-ii,medium,1601,705,2.270921985815603
+1055,Pairs of Songs With Total Durations Divisible by 60,pairs-of-songs-with-total-durations-divisible-by-60,medium,1597,89,17.9438202247191
+557,Reverse Words in a String III,reverse-words-in-a-string-iii,easy,1597,109,14.65137614678899
+632,Smallest Range Covering Elements from K Lists,smallest-range-covering-elements-from-k-lists,hard,1589,28,56.75
+261,Graph Valid Tree,graph-valid-tree,medium,1585,46,34.45652173913044
+1072,Next Greater Node In Linked List,next-greater-node-in-linked-list,medium,1583,81,19.54320987654321
+485,Max Consecutive Ones,max-consecutive-ones,easy,1583,390,4.058974358974359
+501,Find Mode in Binary Search Tree,find-mode-in-binary-search-tree,easy,1572,453,3.4701986754966887
+219,Contains Duplicate II,contains-duplicate-ii,easy,1568,1502,1.043941411451398
+1127,Last Stone Weight,last-stone-weight,easy,1567,40,39.175
+513,Find Bottom Left Tree Value,find-bottom-left-tree-value,medium,1559,187,8.336898395721924
+554,Brick Wall,brick-wall,medium,1554,80,19.425
+999,Regions Cut By Slashes,regions-cut-by-slashes,medium,1546,310,4.987096774193549
+774,Maximum Depth of N-ary Tree,maximum-depth-of-n-ary-tree,easy,1545,63,24.523809523809526
+758,Convert Binary Search Tree to Sorted Doubly Linked List,convert-binary-search-tree-to-sorted-doubly-linked-list,medium,1534,132,11.621212121212121
+719,Find K-th Smallest Pair Distance,find-k-th-smallest-pair-distance,hard,1534,53,28.943396226415093
+630,Course Schedule III,course-schedule-iii,hard,1532,48,31.916666666666668
+1087,Longest Arithmetic Subsequence,longest-arithmetic-subsequence,medium,1531,81,18.901234567901234
+909,Stone Game,stone-game,medium,1529,1701,0.8988830099941211
+712,Minimum ASCII Delete Sum for Two Strings,minimum-ascii-delete-sum-for-two-strings,medium,1527,58,26.32758620689655
+1121,Partition Array for Maximum Sum,partition-array-for-maximum-sum,medium,1524,166,9.180722891566266
+1428,Jump Game III,jump-game-iii,medium,1523,41,37.146341463414636
+366,Find Leaves of Binary Tree,find-leaves-of-binary-tree,medium,1523,23,66.21739130434783
+1130,Last Stone Weight II,last-stone-weight-ii,medium,1519,57,26.649122807017545
+896,Smallest Subtree with all the Deepest Nodes,smallest-subtree-with-all-the-deepest-nodes,medium,1516,306,4.954248366013072
+172,Factorial Trailing Zeroes,factorial-trailing-zeroes,easy,1508,1500,1.0053333333333334
+854,Making A Large Island,making-a-large-island,hard,1506,38,39.63157894736842
+863,Sum of Distances in Tree,sum-of-distances-in-tree,hard,1505,49,30.714285714285715
+201,Bitwise AND of Numbers Range,bitwise-and-of-numbers-range,medium,1505,150,10.033333333333333
+729,My Calendar I,my-calendar-i,medium,1504,52,28.923076923076923
+515,Find Largest Value in Each Tree Row,find-largest-value-in-each-tree-row,medium,1503,73,20.589041095890412
+777,Toeplitz Matrix,toeplitz-matrix,easy,1502,99,15.171717171717171
+697,Degree of an Array,degree-of-an-array,easy,1500,1036,1.4478764478764479
+861,Flipping an Image,flipping-an-image,easy,1498,191,7.842931937172775
+1635,Number of Good Pairs,number-of-good-pairs,easy,1497,113,13.247787610619469
+1549,Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit,longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit,medium,1497,71,21.08450704225352
+412,Fizz Buzz,fizz-buzz,easy,1494,1681,0.8887566924449732
+688,Knight Probability in Chessboard,knight-probability-in-chessboard,medium,1492,254,5.874015748031496
+464,Can I Win,can-i-win,medium,1490,237,6.286919831223629
+526,Beautiful Arrangement,beautiful-arrangement,medium,1489,230,6.473913043478261
+355,Design Twitter,design-twitter,medium,1489,244,6.102459016393443
+879,Maximize Distance to Closest Person,maximize-distance-to-closest-person,medium,1482,137,10.817518248175183
+443,String Compression,string-compression,medium,1477,3533,0.4180583073874894
+1263,Number of Dice Rolls With Target Sum,number-of-dice-rolls-with-target-sum,medium,1473,67,21.98507462686567
+998,Check Completeness of a Binary Tree,check-completeness-of-a-binary-tree,medium,1471,19,77.42105263157895
+1753,Path With Minimum Effort,path-with-minimum-effort,medium,1465,73,20.068493150684933
+987,Reveal Cards In Increasing Order,reveal-cards-in-increasing-order,medium,1464,234,6.256410256410256
+389,Find the Difference,find-the-difference,easy,1462,325,4.498461538461538
+530,Minimum Absolute Difference in BST,minimum-absolute-difference-in-bst,easy,1460,102,14.313725490196079
+1411,Convert Binary Number in a Linked List to Integer,convert-binary-number-in-a-linked-list-to-integer,easy,1457,77,18.92207792207792
+967,Minimum Falling Path Sum,minimum-falling-path-sum,medium,1457,85,17.141176470588235
+498,Diagonal Traverse,diagonal-traverse,medium,1455,433,3.3602771362586603
+1184,Car Pooling,car-pooling,medium,1447,44,32.88636363636363
+789,Kth Largest Element in a Stream,kth-largest-element-in-a-stream,easy,1447,920,1.5728260869565218
+367,Valid Perfect Square,valid-perfect-square,easy,1447,198,7.308080808080808
+256,Paint House,paint-house,medium,1445,108,13.37962962962963
+917,Boats to Save People,boats-to-save-people,medium,1444,51,28.313725490196077
+925,Construct Binary Tree from Preorder and Postorder Traversal,construct-binary-tree-from-preorder-and-postorder-traversal,medium,1443,68,21.220588235294116
+807,Custom Sort String,custom-sort-string,medium,1443,248,5.818548387096774
+1580,Shuffle the Array,shuffle-the-array,easy,1438,146,9.849315068493151
+957,Minimum Add to Make Parentheses Valid,minimum-add-to-make-parentheses-valid,medium,1438,89,16.15730337078652
+303,Range Sum Query - Immutable,range-sum-query-immutable,easy,1438,1440,0.9986111111111111
+642,Design Search Autocomplete System,design-search-autocomplete-system,hard,1435,96,14.947916666666666
+323,Number of Connected Components in an Undirected Graph,number-of-connected-components-in-an-undirected-graph,medium,1435,44,32.61363636363637
+1171,Shortest Path in Binary Matrix,shortest-path-in-binary-matrix,medium,1433,85,16.858823529411765
+1023,Time Based Key-Value Store,time-based-key-value-store,medium,1431,161,8.888198757763975
+926,Find and Replace Pattern,find-and-replace-pattern,medium,1431,108,13.25
+1092,Maximum Difference Between Node and Ancestor,maximum-difference-between-node-and-ancestor,medium,1425,45,31.666666666666668
+30,Substring with Concatenation of All Words,substring-with-concatenation-of-all-words,hard,1421,1577,0.9010779961953076
+1079,Sum of Root To Leaf Binary Numbers,sum-of-root-to-leaf-binary-numbers,easy,1414,99,14.282828282828282
+1397,Search Suggestions System,search-suggestions-system,medium,1408,101,13.94059405940594
+657,Robot Return to Origin,robot-return-to-origin,easy,1404,703,1.9971550497866288
+159,Longest Substring with At Most Two Distinct Characters,longest-substring-with-at-most-two-distinct-characters,medium,1403,21,66.80952380952381
+694,Number of Distinct Islands,number-of-distinct-islands,medium,1402,84,16.69047619047619
+318,Maximum Product of Word Lengths,maximum-product-of-word-lengths,medium,1401,89,15.741573033707866
+556,Next Greater Element III,next-greater-element-iii,medium,1394,279,4.996415770609319
+912,Random Pick with Weight,random-pick-with-weight,medium,1392,2998,0.46430953969312877
+472,Concatenated Words,concatenated-words,hard,1390,165,8.424242424242424
+13,Roman to Integer,roman-to-integer,easy,1379,105,13.133333333333333
+820,Find Eventual Safe States,find-eventual-safe-states,medium,1373,262,5.240458015267175
+1049,Minimum Domino Rotations For Equal Row,minimum-domino-rotations-for-equal-row,medium,1359,196,6.933673469387755
+689,Maximum Sum of 3 Non-Overlapping Subarrays,maximum-sum-of-3-non-overlapping-subarrays,hard,1359,88,15.443181818181818
+1170,Shortest Common Supersequence ,shortest-common-supersequence,hard,1353,32,42.28125
+187,Repeated DNA Sequences,repeated-dna-sequences,medium,1352,350,3.862857142857143
+875,Longest Mountain in Array,longest-mountain-in-array,medium,1341,49,27.367346938775512
+868,Push Dominoes,push-dominoes,medium,1339,90,14.877777777777778
+794,Swim in Rising Water,swim-in-rising-water,hard,1339,103,13.0
+904,Leaf-Similar Trees,leaf-similar-trees,easy,1337,52,25.71153846153846
+887,Minimum Cost to Hire K Workers,minimum-cost-to-hire-k-workers,hard,1337,160,8.35625
+831,Largest Sum of Averages,largest-sum-of-averages,medium,1325,65,20.384615384615383
+764,N-ary Tree Level Order Traversal,n-ary-tree-level-order-traversal,medium,1320,75,17.6
+674,Longest Continuous Increasing Subsequence,longest-continuous-increasing-subsequence,easy,1318,150,8.786666666666667
+882,Peak Index in a Mountain Array,peak-index-in-a-mountain-array,easy,1317,1445,0.9114186851211072
+1331,Path with Maximum Gold,path-with-maximum-gold,medium,1316,42,31.333333333333332
+1511,Count Number of Teams,count-number-of-teams,medium,1313,138,9.514492753623188
+979,DI String Match,di-string-match,easy,1311,514,2.5505836575875485
+258,Add Digits,add-digits,easy,1311,1352,0.9696745562130178
+1476,Count Negative Numbers in a Sorted Matrix,count-negative-numbers-in-a-sorted-matrix,easy,1304,60,21.733333333333334
+58,Length of Last Word,length-of-last-word,easy,1300,3451,0.37670240509997105
+825,Max Increase to Keep City Skyline,max-increase-to-keep-city-skyline,medium,1296,363,3.5702479338842976
+325,Maximum Size Subarray Sum Equals k,maximum-size-subarray-sum-equals-k,medium,1295,39,33.205128205128204
+532,K-diff Pairs in an Array,k-diff-pairs-in-an-array,medium,1292,1630,0.7926380368098159
+833,Bus Routes,bus-routes,hard,1291,38,33.973684210526315
+1105,Uncrossed Lines,uncrossed-lines,medium,1287,24,53.625
+812,Rotate String,rotate-string,easy,1282,74,17.324324324324323
+166,Fraction to Recurring Decimal,fraction-to-recurring-decimal,medium,1279,2463,0.5192854242793341
+1341,Split a String in Balanced Strings,split-a-string-in-balanced-strings,easy,1278,656,1.9481707317073171
+476,Number Complement,number-complement,easy,1278,89,14.359550561797754
+225,Implement Stack using Queues,implement-stack-using-queues,easy,1277,713,1.7910238429172511
+1145,Number of Submatrices That Sum to Target,number-of-submatrices-that-sum-to-target,hard,1276,33,38.666666666666664
+1646,Kth Missing Positive Number,kth-missing-positive-number,easy,1275,83,15.36144578313253
+965,Unique Email Addresses,unique-email-addresses,easy,1275,226,5.6415929203539825
+1217,Relative Sort Array,relative-sort-array,easy,1272,86,14.790697674418604
+811,Number of Subarrays with Bounded Maximum,number-of-subarrays-with-bounded-maximum,medium,1272,79,16.10126582278481
+348,Design Tic-Tac-Toe,design-tic-tac-toe,medium,1271,77,16.506493506493506
+645,Set Mismatch,set-mismatch,easy,1267,470,2.695744680851064
+594,Longest Harmonious Subsequence,longest-harmonious-subsequence,easy,1266,135,9.377777777777778
+566,Reshape the Matrix,reshape-the-matrix,easy,1265,136,9.301470588235293
+1761,Count Sorted Vowel Strings,count-sorted-vowel-strings,medium,1262,30,42.06666666666667
+780,Max Chunks To Make Sorted,max-chunks-to-make-sorted,medium,1259,149,8.449664429530202
+473,Matchsticks to Square,matchsticks-to-square,medium,1256,106,11.849056603773585
+685,Redundant Connection II,redundant-connection-ii,hard,1251,252,4.964285714285714
+381,Insert Delete GetRandom O(1) - Duplicates allowed,insert-delete-getrandom-o1-duplicates-allowed,hard,1249,99,12.616161616161616
+775,N-ary Tree Preorder Traversal,n-ary-tree-preorder-traversal,easy,1248,68,18.352941176470587
+770,Couples Holding Hands,couples-holding-hands,hard,1247,75,16.626666666666665
+477,Total Hamming Distance,total-hamming-distance,medium,1246,68,18.323529411764707
+1160,Letter Tile Possibilities,letter-tile-possibilities,medium,1244,41,30.341463414634145
+974,Reorder Data in Log Files,reorder-data-in-log-files,easy,1234,3157,0.3908774152676592
+799,Minimum Distance Between BST Nodes,minimum-distance-between-bst-nodes,easy,1224,276,4.434782608695652
+68,Text Justification,text-justification,hard,1219,2222,0.5486048604860486
+1243,Sum of Nodes with Even-Valued Grandparent,sum-of-nodes-with-even-valued-grandparent,medium,1217,43,28.302325581395348
+576,Out of Boundary Paths,out-of-boundary-paths,medium,1216,175,6.948571428571428
+327,Count of Range Sum,count-of-range-sum,hard,1215,134,9.067164179104477
+1544,Count Good Nodes in Binary Tree,count-good-nodes-in-binary-tree,medium,1214,47,25.829787234042552
+1096,Maximum Sum of Two Non-Overlapping Subarrays,maximum-sum-of-two-non-overlapping-subarrays,medium,1214,56,21.678571428571427
+690,Employee Importance,employee-importance,easy,1214,1002,1.2115768463073853
+1442,Number of Operations to Make Network Connected,number-of-operations-to-make-network-connected,medium,1212,21,57.714285714285715
+860,Design Circular Queue,design-circular-queue,medium,1207,149,8.100671140939598
+414,Third Maximum Number,third-maximum-number,easy,1199,1937,0.6189984512132163
+636,Exclusive Time of Functions,exclusive-time-of-functions,medium,1197,1927,0.6211728074727556
+988,Flip Equivalent Binary Trees,flip-equivalent-binary-trees,medium,1195,59,20.25423728813559
+147,Insertion Sort List,insertion-sort-list,medium,1190,708,1.6807909604519775
+961,Long Pressed Name,long-pressed-name,easy,1183,202,5.856435643564357
+958,Sort Array By Parity II,sort-array-by-parity-ii,easy,1182,59,20.033898305084747
+345,Reverse Vowels of a String,reverse-vowels-of-a-string,easy,1182,1591,0.742928975487115
+1242,Matrix Block Sum,matrix-block-sum,medium,1175,195,6.0256410256410255
+776,N-ary Tree Postorder Traversal,n-ary-tree-postorder-traversal,easy,1175,75,15.666666666666666
+1253,Sort the Matrix Diagonally,sort-the-matrix-diagonally,medium,1170,159,7.3584905660377355
+362,Design Hit Counter,design-hit-counter,medium,1170,106,11.037735849056604
+565,Array Nesting,array-nesting,medium,1160,120,9.666666666666666
+270,Closest Binary Search Tree Value,closest-binary-search-tree-value,easy,1158,81,14.296296296296296
+375,Guess Number Higher or Lower II,guess-number-higher-or-lower-ii,medium,1155,1572,0.7347328244274809
+89,Gray Code,gray-code,medium,1151,2056,0.5598249027237354
+1168,Duplicate Zeros,duplicate-zeros,easy,1149,382,3.007853403141361
+52,N-Queens II,n-queens-ii,hard,1144,195,5.866666666666666
+905,Length of Longest Fibonacci Subsequence,length-of-longest-fibonacci-subsequence,medium,1143,43,26.58139534883721
+1762,Furthest Building You Can Reach,furthest-building-you-can-reach,medium,1142,41,27.853658536585368
+725,Split Linked List in Parts,split-linked-list-in-parts,medium,1142,163,7.006134969325154
+490,The Maze,the-maze,medium,1137,128,8.8828125
+643,Maximum Average Subarray I,maximum-average-subarray-i,easy,1136,145,7.834482758620689
+1427,All Elements in Two Binary Search Trees,all-elements-in-two-binary-search-trees,medium,1132,41,27.609756097560975
+866,Rectangle Overlap,rectangle-overlap,easy,1132,338,3.3491124260355027
+948,Sort an Array,sort-an-array,medium,1126,419,2.6873508353221958
+889,Buddy Strings,buddy-strings,easy,1125,758,1.4841688654353562
+228,Summary Ranges,summary-ranges,easy,1125,766,1.468668407310705
+978,Valid Mountain Array,valid-mountain-array,easy,1124,103,10.912621359223301
+686,Repeated String Match,repeated-string-match,medium,1122,858,1.3076923076923077
+932,Monotonic Array,monotonic-array,easy,1121,48,23.354166666666668
+305,Number of Islands II,number-of-islands-ii,hard,1120,31,36.12903225806452
+1042,Minimum Cost to Merge Stones,minimum-cost-to-merge-stones,hard,1116,67,16.65671641791045
+648,Replace Words,replace-words,medium,1116,148,7.54054054054054
+524,Longest Word in Dictionary through Deleting,longest-word-in-dictionary-through-deleting,medium,1116,309,3.6116504854368934
+787,Sliding Puzzle,sliding-puzzle,hard,1110,32,34.6875
+1628,Count Submatrices With All Ones,count-submatrices-with-all-ones,medium,1106,80,13.825
+491,Increasing Subsequences,increasing-subsequences,medium,1106,142,7.788732394366197
+1360,Maximum Length of a Concatenated String with Unique Characters,maximum-length-of-a-concatenated-string-with-unique-characters,medium,1105,105,10.523809523809524
+317,Shortest Distance from All Buildings,shortest-distance-from-all-buildings,hard,1102,71,15.52112676056338
+1370,Count Number of Nice Subarrays,count-number-of-nice-subarrays,medium,1099,28,39.25
+1478,Maximum Number of Events That Can Be Attended,maximum-number-of-events-that-can-be-attended,medium,1092,153,7.137254901960785
+1693,Sum of All Odd Length Subarrays,sum-of-all-odd-length-subarrays,easy,1091,110,9.918181818181818
+331,Verify Preorder Serialization of a Binary Tree,verify-preorder-serialization-of-a-binary-tree,medium,1087,62,17.532258064516128
+976,Minimum Area Rectangle,minimum-area-rectangle,medium,1086,189,5.746031746031746
+1776,Minimum Operations to Reduce X to Zero,minimum-operations-to-reduce-x-to-zero,medium,1085,21,51.666666666666664
+716,Max Stack,max-stack,easy,1085,284,3.8204225352112675
+1117,As Far from Land as Possible,as-far-from-land-as-possible,medium,1082,41,26.390243902439025
+1380,Number of Closed Islands,number-of-closed-islands,medium,1081,28,38.607142857142854
+795,K-th Symbol in Grammar,k-th-symbol-in-grammar,medium,1080,216,5.0
+441,Arranging Coins,arranging-coins,easy,1079,827,1.3047158403869408
+1159,Smallest Subsequence of Distinct Characters,smallest-subsequence-of-distinct-characters,medium,1078,120,8.983333333333333
+901,Advantage Shuffle,advantage-shuffle,medium,1078,70,15.4
+606,Construct String from Binary Tree,construct-string-from-binary-tree,easy,1078,1447,0.7449896337249482
+419,Battleships in a Board,battleships-in-a-board,medium,1077,655,1.6442748091603054
+994,Prison Cells After N Days,prison-cells-after-n-days,medium,1074,1368,0.7850877192982456
+1444,Number of Steps to Reduce a Number to Zero,number-of-steps-to-reduce-a-number-to-zero,easy,1064,90,11.822222222222223
+1605,Minimum Number of Days to Make m Bouquets,minimum-number-of-days-to-make-m-bouquets,medium,1060,25,42.4
+876,Hand of Straights,hand-of-straights,medium,1060,102,10.392156862745098
+1017,Odd Even Jump,odd-even-jump,hard,1053,312,3.375
+321,Create Maximum Number,create-maximum-number,hard,1052,286,3.6783216783216783
+1463,The K Weakest Rows in a Matrix,the-k-weakest-rows-in-a-matrix,easy,1050,73,14.383561643835616
+299,Bulls and Cows,bulls-and-cows,medium,1050,1126,0.9325044404973357
+837,Most Common Word,most-common-word,easy,1039,2221,0.46780729401170645
+313,Super Ugly Number,super-ugly-number,medium,1039,181,5.740331491712707
+508,Most Frequent Subtree Sum,most-frequent-subtree-sum,medium,1036,169,6.1301775147929
+1267,Remove Zero Sum Consecutive Nodes from Linked List,remove-zero-sum-consecutive-nodes-from-linked-list,medium,1031,62,16.629032258064516
+720,Longest Word in Dictionary,longest-word-in-dictionary,medium,1031,1159,0.8895599654874892
+252,Meeting Rooms,meeting-rooms,easy,1027,54,19.01851851851852
+475,Heaters,heaters,medium,1018,962,1.0582120582120582
+1437,Minimum Insertion Steps to Make a String Palindrome,minimum-insertion-steps-to-make-a-string-palindrome,hard,1017,16,63.5625
+1492,Time Needed to Inform All Employees,time-needed-to-inform-all-employees,medium,1016,79,12.860759493670885
+623,Add One Row to Tree,add-one-row-to-tree,medium,1016,167,6.083832335329341
+727,Minimum Window Subsequence,minimum-window-subsequence,hard,1013,63,16.07936507936508
+529,Minesweeper,minesweeper,medium,1013,712,1.422752808988764
+462,Minimum Moves to Equal Array Elements II,minimum-moves-to-equal-array-elements-ii,medium,1011,63,16.047619047619047
+877,Shortest Path Visiting All Nodes,shortest-path-visiting-all-nodes,hard,1007,91,11.065934065934066
+761,Employee Free Time,employee-free-time,hard,1006,69,14.579710144927537
+1059,Missing Element in Sorted Array,missing-element-in-sorted-array,medium,1005,43,23.372093023255815
+342,Power of Four,power-of-four,easy,1005,264,3.8068181818181817
+563,Binary Tree Tilt,binary-tree-tilt,easy,1001,1643,0.6092513694461351
+822,Unique Morse Code Words,unique-morse-code-words,easy,998,897,1.1125975473801561
+1249,Snapshot Array,snapshot-array,medium,997,177,5.632768361581921
+916,Decoded String at Index,decoded-string-at-index,medium,997,168,5.934523809523809
+1196,Filling Bookcase Shelves,filling-bookcase-shelves,medium,993,59,16.83050847457627
+383,Ransom Note,ransom-note,easy,993,252,3.9404761904761907
+87,Scramble String,scramble-string,hard,992,861,1.1521486643437864
+1285,Balance a Binary Search Tree,balance-a-binary-search-tree,medium,991,37,26.783783783783782
+679,24 Game,24-game,hard,991,193,5.134715025906735
+1308,Smallest String With Swaps,smallest-string-with-swaps,medium,990,35,28.285714285714285
+1499,Maximum Performance of a Team,maximum-performance-of-a-team,hard,989,38,26.026315789473685
+453,Minimum Moves to Equal Array Elements,minimum-moves-to-equal-array-elements,easy,988,1334,0.7406296851574213
+972,Knight Dialer,knight-dialer,medium,987,308,3.2045454545454546
+1116,Maximum Level Sum of a Binary Tree,maximum-level-sum-of-a-binary-tree,medium,983,46,21.369565217391305
+1032,Satisfiability of Equality Equations,satisfiability-of-equality-equations,medium,983,9,109.22222222222223
+274,H-Index,h-index,medium,980,1579,0.6206459784673845
+1528,Kids With the Greatest Number of Candies,kids-with-the-greatest-number-of-candies,easy,978,212,4.613207547169812
+382,Linked List Random Node,linked-list-random-node,medium,977,250,3.908
+455,Assign Cookies,assign-cookies,easy,975,134,7.276119402985074
+276,Paint Fence,paint-fence,medium,975,337,2.893175074183976
+535,Encode and Decode TinyURL,encode-and-decode-tinyurl,medium,973,1949,0.49923037455105185
+1484,Linked List in Binary Tree,linked-list-in-binary-tree,medium,972,38,25.57894736842105
+1122,Longest Duplicate Substring,longest-duplicate-substring,hard,972,267,3.640449438202247
+1240,Stone Game II,stone-game-ii,medium,970,218,4.4495412844036695
+838,Design Linked List,design-linked-list,medium,968,960,1.0083333333333333
+677,Map Sum Pairs,map-sum-pairs,medium,968,110,8.8
+546,Remove Boxes,remove-boxes,hard,963,64,15.046875
+1414,Shortest Path in a Grid with Obstacles Elimination,shortest-path-in-a-grid-with-obstacles-elimination,hard,962,16,60.125
+966,Binary Subarrays With Sum,binary-subarrays-with-sum,medium,959,37,25.91891891891892
+1086,Divisor Game,divisor-game,easy,957,2452,0.39029363784665577
+953,Reverse Only Letters,reverse-only-letters,easy,954,46,20.73913043478261
+728,Self Dividing Numbers,self-dividing-numbers,easy,954,333,2.864864864864865
+259,3Sum Smaller,3sum-smaller,medium,951,101,9.415841584158416
+1288,Maximum Subarray Sum with One Deletion,maximum-subarray-sum-with-one-deletion,medium,949,34,27.91176470588235
+346,Moving Average from Data Stream,moving-average-from-data-stream,easy,949,94,10.095744680851064
+1033,Broken Calculator,broken-calculator,medium,948,139,6.820143884892087
+951,Partition Array into Disjoint Intervals,partition-array-into-disjoint-intervals,medium,946,50,18.92
+950,X of a Kind in a Deck of Cards,x-of-a-kind-in-a-deck-of-cards,easy,944,234,4.034188034188034
+890,Lemonade Change,lemonade-change,easy,942,107,8.80373831775701
+730,Count Different Palindromic Subsequences,count-different-palindromic-subsequences,hard,939,54,17.38888888888889
+1450,Delete Leaves With a Given Value,delete-leaves-with-a-given-value,medium,936,19,49.26315789473684
+1005,Univalued Binary Tree,univalued-binary-tree,easy,936,53,17.660377358490567
+1078,Remove Outermost Parentheses,remove-outermost-parentheses,easy,932,956,0.9748953974895398
+333,Largest BST Subtree,largest-bst-subtree,medium,929,85,10.929411764705883
+1792,Find the Most Competitive Subsequence,find-the-most-competitive-subsequence,medium,925,53,17.452830188679247
+1395,Minimum Time Visiting All Points,minimum-time-visiting-all-points,easy,925,138,6.702898550724638
+731,My Calendar II,my-calendar-ii,medium,923,107,8.626168224299066
+671,Second Minimum Node In a Binary Tree,second-minimum-node-in-a-binary-tree,easy,922,1204,0.7657807308970099
+873,Guess the Word,guess-the-word,hard,910,960,0.9479166666666666
+790,Global and Local Inversions,global-and-local-inversions,medium,910,271,3.357933579335793
+161,One Edit Distance,one-edit-distance,medium,910,142,6.408450704225352
+1146,Greatest Common Divisor of Strings,greatest-common-divisor-of-strings,easy,907,206,4.402912621359223
+1231,Replace Elements with Greatest Element on Right Side,replace-elements-with-greatest-element-on-right-side,easy,902,151,5.973509933774834
+339,Nested List Weight Sum,nested-list-weight-sum,medium,900,227,3.9647577092511015
+263,Ugly Number,ugly-number,easy,900,867,1.0380622837370241
+520,Detect Capital,detect-capital,easy,899,303,2.966996699669967
+1559,Cherry Pickup II,cherry-pickup-ii,hard,898,11,81.63636363636364
+1298,Reverse Substrings Between Each Pair of Parentheses,reverse-substrings-between-each-pair-of-parentheses,medium,896,28,32.0
+600,Non-negative Integers without Consecutive Ones,non-negative-integers-without-consecutive-ones,hard,896,102,8.784313725490197
+1408,Find the Smallest Divisor Given a Threshold,find-the-smallest-divisor-given-a-threshold,medium,895,136,6.580882352941177
+1460,Number of Substrings Containing All Three Characters,number-of-substrings-containing-all-three-characters,medium,892,19,46.94736842105263
+599,Minimum Index Sum of Two Lists,minimum-index-sum-of-two-lists,easy,889,260,3.419230769230769
+1573,Find Two Non-overlapping Sub-arrays Each With Target Sum,find-two-non-overlapping-sub-arrays-each-with-target-sum,medium,888,48,18.5
+1451,Minimum Number of Taps to Open to Water a Garden,minimum-number-of-taps-to-open-to-water-a-garden,hard,883,77,11.467532467532468
+165,Compare Version Numbers,compare-version-numbers,medium,883,1760,0.5017045454545455
+1464,Reduce Array Size to The Half,reduce-array-size-to-the-half,medium,881,70,12.585714285714285
+1097,Stream of Characters,stream-of-characters,hard,877,126,6.9603174603174605
+359,Logger Rate Limiter,logger-rate-limiter,easy,877,149,5.885906040268456
+815,Champagne Tower,champagne-tower,medium,875,62,14.112903225806452
+505,The Maze II,the-maze-ii,medium,872,41,21.26829268292683
+1009,Pancake Sorting,pancake-sorting,medium,871,1092,0.7976190476190477
+1081,Video Stitching,video-stitching,medium,870,40,21.75
+465,Optimal Account Balancing,optimal-account-balancing,hard,869,84,10.345238095238095
+467,Unique Substrings in Wraparound String,unique-substrings-in-wraparound-string,medium,868,118,7.3559322033898304
+883,Car Fleet,car-fleet,medium,867,324,2.675925925925926
+1512,Design Underground System,design-underground-system,medium,865,63,13.73015873015873
+1388,Greatest Sum Divisible by Three,greatest-sum-divisible-by-three,medium,865,26,33.26923076923077
+1576,Reorder Routes to Make All Paths Lead to the City Zero,reorder-routes-to-make-all-paths-lead-to-the-city-zero,medium,863,25,34.52
+962,Flip String to Monotone Increasing,flip-string-to-monotone-increasing,medium,863,26,33.19230769230769
+1002,Maximum Width Ramp,maximum-width-ramp,medium,862,25,34.48
+386,Lexicographical Numbers,lexicographical-numbers,medium,861,102,8.441176470588236
+1138,Grumpy Bookstore Owner,grumpy-bookstore-owner,medium,860,79,10.886075949367088
+1814,Jump Game VI,jump-game-vi,medium,859,40,21.475
+432,All O`one Data Structure,all-oone-data-structure,hard,856,110,7.781818181818182
+924,Fair Candy Swap,fair-candy-swap,easy,855,176,4.857954545454546
+284,Peeking Iterator,peeking-iterator,medium,850,592,1.4358108108108107
+292,Nim Game,nim-game,easy,846,1963,0.43097300050942433
+639,Decode Ways II,decode-ways-ii,hard,844,699,1.2074391988555078
+545,Boundary of Binary Tree,boundary-of-binary-tree,medium,844,1402,0.6019971469329529
+528,Swapping Nodes in a Linked List,swapping-nodes-in-a-linked-list,medium,840,51,16.470588235294116
+249,Group Shifted Strings,group-shifted-strings,medium,840,166,5.0602409638554215
+1457,Minimum Difficulty of a Job Schedule,minimum-difficulty-of-a-job-schedule,hard,838,96,8.729166666666666
+1422,Divide Array in Sets of K Consecutive Numbers,divide-array-in-sets-of-k-consecutive-numbers,medium,834,73,11.424657534246576
+1229,Shortest Path with Alternating Colors,shortest-path-with-alternating-colors,medium,834,42,19.857142857142858
+980,Find the Shortest Superstring,find-the-shortest-superstring,hard,832,114,7.298245614035087
+436,Find Right Interval,find-right-interval,medium,829,206,4.024271844660194
+272,Closest Binary Search Tree Value II,closest-binary-search-tree-value-ii,hard,828,26,31.846153846153847
+816,Design HashSet,design-hashset,easy,827,119,6.949579831932773
+1142,Minimum Knight Moves,minimum-knight-moves,medium,824,270,3.051851851851852
+1218,Lowest Common Ancestor of Deepest Leaves,lowest-common-ancestor-of-deepest-leaves,medium,822,668,1.2305389221556886
+1319,Unique Number of Occurrences,unique-number-of-occurrences,easy,820,28,29.285714285714285
+1062,Partition Array Into Three Parts With Equal Sum,partition-array-into-three-parts-with-equal-sum,easy,818,94,8.702127659574469
+638,Shopping Offers,shopping-offers,medium,817,561,1.4563279857397504
+1205,Defanging an IP Address,defanging-an-ip-address,easy,811,1292,0.6277089783281734
+796,Reaching Points,reaching-points,hard,810,137,5.912408759124087
+552,Student Attendance Record II,student-attendance-record-ii,hard,810,144,5.625
+676,Implement Magic Dictionary,implement-magic-dictionary,medium,808,167,4.838323353293413
+1473,Find the Longest Substring Containing Vowels in Even Counts,find-the-longest-substring-containing-vowels-in-even-counts,medium,807,32,25.21875
+746,Prefix and Suffix Search,prefix-and-suffix-search,hard,804,297,2.707070707070707
+946,Smallest Range II,smallest-range-ii,medium,802,301,2.664451827242525
+668,Kth Smallest Number in Multiplication Table,kth-smallest-number-in-multiplication-table,hard,802,26,30.846153846153847
+487,Max Consecutive Ones II,max-consecutive-ones-ii,medium,802,13,61.69230769230769
+934,Bitwise ORs of Subarrays,bitwise-ors-of-subarrays,medium,800,157,5.095541401273885
+742,To Lower Case,to-lower-case,easy,799,2068,0.38636363636363635
+255,Verify Preorder Sequence in Binary Search Tree,verify-preorder-sequence-in-binary-search-tree,medium,798,65,12.276923076923078
+1653,Number of Good Leaf Nodes Pairs,number-of-good-leaf-nodes-pairs,medium,797,15,53.13333333333333
+891,Score After Flipping Matrix,score-after-flipping-matrix,medium,797,155,5.141935483870967
+867,New 21 Game,new-21-game,medium,797,486,1.639917695473251
+575,Distribute Candies,distribute-candies,easy,797,1055,0.7554502369668247
+952,Word Subsets,word-subsets,medium,795,113,7.035398230088496
+682,Baseball Game,baseball-game,easy,795,1267,0.6274664561957379
+885,Exam Room,exam-room,medium,793,320,2.478125
+370,Range Addition,range-addition,medium,793,32,24.78125
+549,Binary Tree Longest Consecutive Sequence II,binary-tree-longest-consecutive-sequence-ii,medium,791,55,14.381818181818181
+401,Binary Watch,binary-watch,easy,790,1446,0.5463347164591977
+388,Longest Absolute File Path,longest-absolute-file-path,medium,789,1826,0.432092004381161
+791,Split BST,split-bst,medium,787,75,10.493333333333334
+446,Arithmetic Slices II - Subsequence,arithmetic-slices-ii-subsequence,hard,787,73,10.780821917808218
+829,Subdomain Visit Count,subdomain-visit-count,medium,786,962,0.817047817047817
+1661,Minimum Number of Vertices to Reach All Nodes,minimum-number-of-vertices-to-reach-all-nodes,medium,785,50,15.7
+1651,Shuffle String,shuffle-string,easy,782,196,3.989795918367347
+243,Shortest Word Distance,shortest-word-distance,easy,782,64,12.21875
+755,Reach a Number,reach-a-number,medium,781,569,1.3725834797891037
+745,Find Smallest Letter Greater Than Target,find-smallest-letter-greater-than-target,easy,778,871,0.8932261768082663
+425,Word Squares,word-squares,hard,778,48,16.208333333333332
+280,Wiggle Sort,wiggle-sort,medium,778,69,11.27536231884058
+633,Sum of Square Numbers,sum-of-square-numbers,medium,776,397,1.9546599496221662
+1575,Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts,maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts,medium,775,190,4.078947368421052
+1568,Pseudo-Palindromic Paths in a Binary Tree,pseudo-palindromic-paths-in-a-binary-tree,medium,775,26,29.807692307692307
+1206,Corporate Flight Bookings,corporate-flight-bookings,medium,772,129,5.984496124031008
+364,Nested List Weight Sum II,nested-list-weight-sum-ii,medium,772,228,3.3859649122807016
+1421,Find Numbers with Even Number of Digits,find-numbers-with-even-number-of-digits,easy,771,85,9.070588235294117
+1469,Minimum Number of Steps to Make Two Strings Anagram,minimum-number-of-steps-to-make-two-strings-anagram,medium,769,46,16.717391304347824
+1829,Maximum Units on a Truck,maximum-units-on-a-truck,easy,766,62,12.35483870967742
+898,Transpose Matrix,transpose-matrix,easy,766,347,2.207492795389049
+1111,Minimum Score Triangulation of Polygon,minimum-score-triangulation-of-polygon,medium,765,97,7.88659793814433
+959,3Sum With Multiplicity,3sum-with-multiplicity,medium,764,129,5.922480620155039
+1332,Count Vowels Permutation,count-vowels-permutation,hard,763,83,9.19277108433735
+1895,Minimum Number of Operations to Move All Balls to Each Box,minimum-number-of-operations-to-move-all-balls-to-each-box,medium,762,31,24.580645161290324
+250,Count Univalue Subtrees,count-univalue-subtrees,medium,761,214,3.55607476635514
+1447,Jump Game IV,jump-game-iv,hard,759,49,15.489795918367347
+1093,Recover a Tree From Preorder Traversal,recover-a-tree-from-preorder-traversal,hard,759,26,29.192307692307693
+1248,Binary Tree Coloring Game,binary-tree-coloring-game,medium,758,152,4.9868421052631575
+1030,Smallest String Starting From Leaf,smallest-string-starting-from-leaf,medium,757,140,5.4071428571428575
+1099,Path With Maximum Minimum Value,path-with-maximum-minimum-value,medium,754,82,9.195121951219512
+982,Minimum Increment to Make Array Unique,minimum-increment-to-make-array-unique,medium,754,33,22.848484848484848
+715,Range Module,range-module,hard,753,56,13.446428571428571
+1194,Path In Zigzag Labelled Binary Tree,path-in-zigzag-labelled-binary-tree,medium,749,212,3.5330188679245285
+88,Merge Sorted Array,merge-sorted-array,easy,749,94,7.968085106382978
+1325,Path with Maximum Probability,path-with-maximum-probability,medium,742,18,41.22222222222222
+903,Implement Rand10() Using Rand7(),implement-rand10-using-rand7,medium,741,249,2.9759036144578315
+254,Factor Combinations,factor-combinations,medium,740,33,22.424242424242426
+675,Cut Off Trees for Golf Event,cut-off-trees-for-golf-event,hard,739,435,1.6988505747126437
+539,Minimum Time Difference,minimum-time-difference,medium,739,179,4.128491620111732
+1063,Best Sightseeing Pair,best-sightseeing-pair,medium,736,27,27.25925925925926
+1020,Longest Turbulent Subarray,longest-turbulent-subarray,medium,736,139,5.294964028776978
+1007,Numbers With Same Consecutive Differences,numbers-with-same-consecutive-differences,medium,732,127,5.7637795275590555
+1456,Find the City With the Smallest Number of Neighbors at a Threshold Distance,find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance,medium,731,41,17.829268292682926
+1621,Number of Subsequences That Satisfy the Given Sum Condition,number-of-subsequences-that-satisfy-the-given-sum-condition,medium,728,67,10.865671641791044
+1052,Campus Bikes,campus-bikes,medium,728,126,5.777777777777778
+1306,Minimum Absolute Difference,minimum-absolute-difference,easy,727,35,20.771428571428572
+1112,Find Words That Can Be Formed by Characters,find-words-that-can-be-formed-by-characters,easy,727,105,6.923809523809524
+726,Number of Atoms,number-of-atoms,hard,727,184,3.9510869565217392
+1236,N-th Tribonacci Number,n-th-tribonacci-number,easy,725,60,12.083333333333334
+1474,Longest ZigZag Path in a Binary Tree,longest-zigzag-path-in-a-binary-tree,medium,724,14,51.714285714285715
+1222,Remove Covered Intervals,remove-covered-intervals,medium,724,28,25.857142857142858
+398,Random Pick Index,random-pick-index,medium,724,888,0.8153153153153153
+1497,Design a Stack With Increment Operation,design-a-stack-with-increment-operation,medium,722,60,12.033333333333333
+1219,Longest Well-Performing Interval,longest-well-performing-interval,medium,721,78,9.243589743589743
+843,Binary Trees With Factors,binary-trees-with-factors,medium,721,95,7.589473684210526
+298,Binary Tree Longest Consecutive Sequence,binary-tree-longest-consecutive-sequence,medium,721,172,4.191860465116279
+1001,N-Repeated Element in Size 2N Array,n-repeated-element-in-size-2n-array,easy,719,268,2.6828358208955225
+779,Max Chunks To Make Sorted II,max-chunks-to-make-sorted-ii,hard,719,27,26.62962962962963
+582,Kill Process,kill-process,medium,717,14,51.214285714285715
+836,Race Car,race-car,hard,716,75,9.546666666666667
+609,Find Duplicate File in System,find-duplicate-file-in-system,medium,716,848,0.8443396226415094
+1031,Add to Array-Form of Integer,add-to-array-form-of-integer,easy,715,107,6.682242990654205
+1522,Stone Game III,stone-game-iii,hard,714,13,54.92307692307692
+1448,Maximum 69 Number,maximum-69-number,easy,714,99,7.212121212121212
+693,Binary Number with Alternating Bits,binary-number-with-alternating-bits,easy,713,96,7.427083333333333
+374,Guess Number Higher or Lower,guess-number-higher-or-lower,easy,711,2206,0.32230281051677245
+319,Bulb Switcher,bulb-switcher,medium,710,1340,0.5298507462686567
+1632,Number of Good Ways to Split a String,number-of-good-ways-to-split-a-string,medium,709,20,35.45
+500,Keyboard Row,keyboard-row,easy,708,797,0.8883312421580929
+265,Paint House II,paint-house-ii,hard,708,30,23.6
+616,Add Bold Tag in String,add-bold-tag-in-string,medium,706,107,6.598130841121495
+855,Count Unique Characters of All Substrings of a Given String,count-unique-characters-of-all-substrings-of-a-given-string,hard,705,70,10.071428571428571
+872,Split Array into Fibonacci Sequence,split-array-into-fibonacci-sequence,medium,700,218,3.2110091743119265
+38,Count and Say,count-and-say,medium,699,2100,0.33285714285714285
+1547,Destination City,destination-city,easy,698,50,13.96
+856,Consecutive Numbers Sum,consecutive-numbers-sum,hard,698,862,0.8097447795823666
+1612,Avoid Flood in The City,avoid-flood-in-the-city,medium,697,153,4.555555555555555
+1554,Minimum Time to Collect All Apples in a Tree,minimum-time-to-collect-all-apples-in-a-tree,medium,696,69,10.08695652173913
+920,Uncommon Words from Two Sentences,uncommon-words-from-two-sentences,easy,694,115,6.034782608695652
+158,Read N Characters Given Read4 II - Call multiple times,read-n-characters-given-read4-ii-call-multiple-times,hard,693,1436,0.48259052924791085
+405,Convert a Number to Hexadecimal,convert-a-number-to-hexadecimal,easy,692,140,4.942857142857143
+1675,Magnetic Force Between Two Balls,magnetic-force-between-two-balls,medium,691,64,10.796875
+536,Construct Binary Tree from String,construct-binary-tree-from-string,medium,691,116,5.956896551724138
+186,Reverse Words in a String II,reverse-words-in-a-string-ii,medium,690,122,5.655737704918033
+1051,Shortest Way to Form String,shortest-way-to-form-string,medium,689,42,16.404761904761905
+1679,Shortest Subarray to be Removed to Make Array Sorted,shortest-subarray-to-be-removed-to-make-array-sorted,medium,688,21,32.76190476190476
+629,K Inverse Pairs Array,k-inverse-pairs-array,hard,688,106,6.490566037735849
+369,Plus One Linked List,plus-one-linked-list,medium,687,38,18.07894736842105
+330,Patching Array,patching-array,hard,686,86,7.976744186046512
+1426,Find N Unique Integers Sum up to Zero,find-n-unique-integers-sum-up-to-zero,easy,685,363,1.8870523415977962
+1407,Group the People Given the Group Size They Belong To,group-the-people-given-the-group-size-they-belong-to,medium,684,399,1.7142857142857142
+968,Beautiful Array,beautiful-array,medium,684,963,0.7102803738317757
+765,Serialize and Deserialize N-ary Tree,serialize-and-deserialize-n-ary-tree,hard,684,38,18.0
+683,K Empty Slots,k-empty-slots,hard,683,627,1.0893141945773526
+357,Count Numbers with Unique Digits,count-numbers-with-unique-digits,medium,683,1086,0.6289134438305709
+738,Monotone Increasing Digits,monotone-increasing-digits,medium,682,79,8.632911392405063
+1396,Count Servers that Communicate,count-servers-that-communicate,medium,681,64,10.640625
+1791,Richest Customer Wealth,richest-customer-wealth,easy,679,121,5.6115702479338845
+1126,Minimum Cost to Connect Sticks,minimum-cost-to-connect-sticks,medium,679,135,5.029629629629629
+977,Distinct Subsequences II,distinct-subsequences-ii,hard,678,19,35.68421052631579
+311,Sparse Matrix Multiplication,sparse-matrix-multiplication,medium,678,258,2.627906976744186
+1047,Maximize Sum Of Array After K Negations,maximize-sum-of-array-after-k-negations,easy,676,63,10.73015873015873
+266,Palindrome Permutation,palindrome-permutation,easy,675,63,10.714285714285714
+588,Design In-Memory File System,design-in-memory-file-system,hard,672,84,8.0
+541,Reverse String II,reverse-string-ii,easy,672,1839,0.36541598694942906
+769,Largest Plus Sign,largest-plus-sign,medium,670,134,5.0
+1553,Count Triplets That Can Form Two Arrays of Equal XOR,count-triplets-that-can-form-two-arrays-of-equal-xor,medium,666,35,19.02857142857143
+1741,Sort Array by Increasing Frequency,sort-array-by-increasing-frequency,easy,664,31,21.419354838709676
+1140,Distant Barcodes,distant-barcodes,medium,664,30,22.133333333333333
+1669,Minimum Cost to Cut a Stick,minimum-cost-to-cut-a-stick,hard,663,10,66.3
+1465,Maximum Product of Splitted Binary Tree,maximum-product-of-splitted-binary-tree,medium,662,48,13.791666666666666
+1073,Number of Enclaves,number-of-enclaves,medium,662,27,24.51851851851852
+1304,Longest Happy String,longest-happy-string,medium,660,118,5.593220338983051
+1485,Minimum Cost to Make at Least One Valid Path in a Grid,minimum-cost-to-make-at-least-one-valid-path-in-a-grid,hard,659,6,109.83333333333333
+884,K-Similar Strings,k-similar-strings,hard,658,45,14.622222222222222
+1211,Iterator for Combination,iterator-for-combination,medium,654,48,13.625
+418,Sentence Screen Fitting,sentence-screen-fitting,medium,654,317,2.0630914826498423
+271,Encode and Decode Strings,encode-and-decode-strings,medium,652,187,3.486631016042781
+296,Best Meeting Point,best-meeting-point,hard,651,53,12.283018867924529
+1434,Decrypt String from Alphabet to Integer Mapping,decrypt-string-from-alphabet-to-integer-mapping,easy,649,61,10.639344262295081
+1299,K-Concatenation Maximum Sum,k-concatenation-maximum-sum,medium,649,56,11.589285714285714
+1374,Leftmost Column with at Least a One,leftmost-column-with-at-least-a-one,medium,647,81,7.987654320987654
+1369,Minimum Swaps to Make Strings Equal,minimum-swaps-to-make-strings-equal,medium,647,186,3.478494623655914
+1477,Product of the Last K Numbers,product-of-the-last-k-numbers,medium,641,36,17.805555555555557
+1124,String Transforms Into Another String,string-transforms-into-another-string,hard,641,240,2.6708333333333334
+482,License Key Formatting,license-key-formatting,easy,641,934,0.6862955032119914
+1694,Make Sum Divisible by P,make-sum-divisible-by-p,medium,639,29,22.03448275862069
+806,Domino and Tromino Tiling,domino-and-tromino-tiling,medium,639,324,1.9722222222222223
+785,Basic Calculator III,basic-calculator-iii,hard,639,231,2.7662337662337664
+1330,Longest Arithmetic Subsequence of Given Difference,longest-arithmetic-subsequence-of-given-difference,medium,638,34,18.764705882352942
+361,Bomb Enemy,bomb-enemy,medium,637,82,7.7682926829268295
+390,Elimination Game,elimination-game,medium,635,444,1.4301801801801801
+1582,Design Browser History,design-browser-history,medium,634,69,9.18840579710145
+1349,Check If It Is a Straight Line,check-if-it-is-a-straight-line,easy,634,100,6.34
+1120,Flower Planting With No Adjacent,flower-planting-with-no-adjacent,medium,634,592,1.070945945945946
+963,Three Equal Parts,three-equal-parts,hard,634,98,6.469387755102041
+664,Strange Printer,strange-printer,hard,634,58,10.931034482758621
+1435,XOR Queries of a Subarray,xor-queries-of-a-subarray,medium,632,26,24.307692307692307
+969,Number of Recent Calls,number-of-recent-calls,easy,632,2268,0.2786596119929453
+743,Closest Leaf in a Binary Tree,closest-leaf-in-a-binary-tree,medium,632,121,5.223140495867769
+1770,Minimum Deletions to Make Character Frequencies Unique,minimum-deletions-to-make-character-frequencies-unique,medium,630,20,31.5
+1296,Kth Ancestor of a Tree Node,kth-ancestor-of-a-tree-node,hard,630,66,9.545454545454545
+1185,Find in Mountain Array,find-in-mountain-array,hard,630,45,14.0
+1406,Subtract the Product and Sum of Digits of an Integer,subtract-the-product-and-sum-of-digits-of-an-integer,easy,628,157,4.0
+1297,Maximum Number of Balloons,maximum-number-of-balloons,easy,628,50,12.56
+1212,Sequential Digits,sequential-digits,medium,626,57,10.982456140350877
+71,Simplify Path,simplify-path,medium,626,171,3.6608187134502925
+1505,Create Target Array in the Given Order,create-target-array-in-the-given-order,easy,625,833,0.7503001200480192
+895,Shortest Path to Get All Keys,shortest-path-to-get-all-keys,hard,625,23,27.17391304347826
+737,Sentence Similarity II,sentence-similarity-ii,medium,625,39,16.025641025641026
+1475,Maximum Sum BST in Binary Tree,maximum-sum-bst-in-binary-tree,hard,624,81,7.703703703703703
+1542,Consecutive Characters,consecutive-characters,easy,623,17,36.64705882352941
+1458,Sort Integers by The Number of 1 Bits,sort-integers-by-the-number-of-1-bits,easy,623,27,23.074074074074073
+823,Split Array With Same Average,split-array-with-same-average,hard,623,101,6.1683168316831685
+850,Insert into a Sorted Circular Linked List,insert-into-a-sorted-circular-linked-list,medium,620,461,1.3449023861171367
+839,Short Encoding of Words,short-encoding-of-words,medium,620,235,2.6382978723404253
+989,Largest Component Size by Common Factor,largest-component-size-by-common-factor,hard,618,69,8.956521739130435
+723,Candy Crush,candy-crush,medium,618,253,2.4426877470355732
+433,Minimum Genetic Mutation,minimum-genetic-mutation,medium,618,77,8.025974025974026
+358,Rearrange String k Distance Apart,rearrange-string-k-distance-apart,hard,618,26,23.76923076923077
+1446,Angle Between Hands of a Clock,angle-between-hands-of-a-clock,medium,617,135,4.57037037037037
+396,Rotate Function,rotate-function,medium,617,193,3.1968911917098444
+1018,Largest Perimeter Triangle,largest-perimeter-triangle,easy,615,59,10.423728813559322
+1527,Number of Ways to Paint N × 3 Grid,number-of-ways-to-paint-n-3-grid,hard,614,27,22.74074074074074
+1037,Minimum Number of K Consecutive Bit Flips,minimum-number-of-k-consecutive-bit-flips,hard,614,46,13.347826086956522
+1570,Final Prices With a Special Discount in a Shop,final-prices-with-a-special-discount-in-a-shop,easy,613,46,13.326086956521738
+247,Strobogrammatic Number II,strobogrammatic-number-ii,medium,612,159,3.849056603773585
+1443,Minimum Distance to Type a Word Using Two Fingers,minimum-distance-to-type-a-word-using-two-fingers,hard,611,26,23.5
+1550,Find the Kth Smallest Sum of a Matrix With Sorted Rows,find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows,hard,609,7,87.0
+1539,Diagonal Traverse II,diagonal-traverse-ii,medium,607,66,9.196969696969697
+1503,Reducing Dishes,reducing-dishes,hard,606,106,5.716981132075472
+821,Bricks Falling When Hit,bricks-falling-when-hit,hard,604,155,3.8967741935483873
+397,Integer Replacement,integer-replacement,medium,604,379,1.5936675461741425
+869,Similar String Groups,similar-string-groups,hard,603,154,3.9155844155844157
+717,1-bit and 2-bit Characters,1-bit-and-2-bit-characters,easy,603,1547,0.38978668390433097
+267,Palindrome Permutation II,palindrome-permutation-ii,medium,603,74,8.14864864864865
+956,Number of Music Playlists,number-of-music-playlists,hard,601,61,9.852459016393443
+853,Most Profit Assigning Work,most-profit-assigning-work,medium,600,90,6.666666666666667
+1100,Connecting Cities With Minimum Cost,connecting-cities-with-minimum-cost,medium,599,32,18.71875
+1083,Two Sum Less Than K,two-sum-less-than-k,easy,599,65,9.215384615384615
+223,Rectangle Area,rectangle-area,medium,598,910,0.6571428571428571
+667,Beautiful Arrangement II,beautiful-arrangement-ii,medium,596,909,0.6556655665566556
+1610,XOR Operation in an Array,xor-operation-in-an-array,easy,594,245,2.4244897959183676
+1011,Flip Binary Tree To Match Preorder Traversal,flip-binary-tree-to-match-preorder-traversal,medium,594,222,2.675675675675676
+244,Shortest Word Distance II,shortest-word-distance-ii,medium,592,168,3.5238095238095237
+1706,Min Cost to Connect All Points,min-cost-to-connect-all-points,medium,591,31,19.06451612903226
+1677,Matrix Diagonal Sum,matrix-diagonal-sum,easy,591,12,49.25
+1496,Lucky Numbers in a Matrix,lucky-numbers-in-a-matrix,easy,591,51,11.588235294117647
+1351,Replace the Substring for Balanced String,replace-the-substring-for-balanced-string,medium,591,124,4.766129032258065
+1286,Constrained Subsequence Sum,constrained-subsequence-sum,hard,591,27,21.88888888888889
+1711,Find Valid Matrix Given Row and Column Sums,find-valid-matrix-given-row-and-column-sums,medium,590,23,25.652173913043477
+1413,Maximum Side Length of a Square with Sum Less than or Equal to Threshold,maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold,medium,590,44,13.409090909090908
+1195,Distribute Candies to People,distribute-candies-to-people,easy,590,158,3.7341772151898733
+306,Additive Number,additive-number,medium,589,557,1.0574506283662477
+793,Swap Adjacent in LR String,swap-adjacent-in-lr-string,medium,587,539,1.0890538033395176
+1813,Maximum Erasure Value,maximum-erasure-value,medium,586,10,58.6
+353,Design Snake Game,design-snake-game,medium,586,227,2.5814977973568283
+1488,Sort Integers by The Power Value,sort-integers-by-the-power-value,medium,585,72,8.125
+1027,Sum of Even Numbers After Queries,sum-of-even-numbers-after-queries,medium,585,198,2.9545454545454546
+1557,Check If a String Contains All Binary Codes of Size K,check-if-a-string-contains-all-binary-codes-of-size-k,medium,584,64,9.125
+681,Next Closest Time,next-closest-time,medium,584,852,0.6854460093896714
+163,Missing Ranges,missing-ranges,easy,584,2196,0.2659380692167577
+1674,Minimum Operations to Make Array Equal,minimum-operations-to-make-array-equal,medium,583,109,5.348623853211009
+514,Freedom Trail,freedom-trail,hard,583,29,20.103448275862068
+802,K-th Smallest Prime Fraction,k-th-smallest-prime-fraction,hard,582,33,17.636363636363637
+1700,Minimum Deletion Cost to Avoid Repeating Letters,minimum-deletion-cost-to-avoid-repeating-letters,medium,581,26,22.346153846153847
+502,IPO,ipo,hard,581,56,10.375
+523,Continuous Subarray Sum,continuous-subarray-sum,medium,579,97,5.969072164948454
+275,H-Index II,h-index-ii,medium,579,907,0.6383682469680264
+1616,Minimum Difference Between Largest and Smallest Value in Three Moves,minimum-difference-between-largest-and-smallest-value-in-three-moves,medium,578,73,7.917808219178082
+1343,Dice Roll Simulation,dice-roll-simulation,hard,577,168,3.4345238095238093
+291,Word Pattern II,word-pattern-ii,medium,576,41,14.048780487804878
+1574,Maximum Product of Two Elements in an Array,maximum-product-of-two-elements-in-an-array,easy,575,100,5.75
+1783,Ways to Make a Fair Array,ways-to-make-a-fair-array,medium,574,16,35.875
+1620,Check If Array Pairs Are Divisible by k,check-if-array-pairs-are-divisible-by-k,medium,574,49,11.714285714285714
+691,Stickers to Spell Word,stickers-to-spell-word,hard,573,56,10.232142857142858
+1649,Maximum Number of Non-Overlapping Subarrays With Sum Equals Target,maximum-number-of-non-overlapping-subarrays-with-sum-equals-target,medium,570,11,51.81818181818182
+1491,Bulb Switcher III,bulb-switcher-iii,medium,570,89,6.404494382022472
+1479,Construct Target Array With Multiple Sums,construct-target-array-with-multiple-sums,hard,569,69,8.246376811594203
+1886,Minimum Limit of Balls in a Bag,minimum-limit-of-balls-in-a-bag,medium,568,26,21.846153846153847
+458,Poor Pigs,poor-pigs,hard,568,1064,0.5338345864661654
+308,Range Sum Query 2D - Mutable,range-sum-query-2d-mutable,hard,566,68,8.323529411764707
+851,Goat Latin,goat-latin,easy,563,986,0.5709939148073022
+1966,Frequency of the Most Frequent Element,frequency-of-the-most-frequent-element,medium,562,10,56.2
+1232,Sum of Mutated Array Closest to Target,sum-of-mutated-array-closest-to-target,medium,561,72,7.791666666666667
+835,Linked List Components,linked-list-components,medium,561,1518,0.3695652173913043
+1241,Decompress Run-Length Encoded List,decompress-run-length-encoded-list,easy,559,919,0.6082698585418934
+732,My Calendar III,my-calendar-iii,hard,558,129,4.325581395348837
+1760,Check Array Formation Through Concatenation,check-array-formation-through-concatenation,easy,555,98,5.663265306122449
+1067,Campus Bikes II,campus-bikes-ii,medium,555,44,12.613636363636363
+985,Bag of Tokens,bag-of-tokens,medium,554,277,2.0
+1498,Find a Corresponding Node of a Binary Tree in a Clone of That Tree,find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree,medium,550,733,0.7503410641200545
+1220,Smallest Sufficient Team,smallest-sufficient-team,hard,550,10,55.0
+1748,Best Team With No Conflicts,best-team-with-no-conflicts,medium,549,22,24.954545454545453
+1256,Rank Transform of an Array,rank-transform-of-an-array,easy,549,42,13.071428571428571
+1144,Optimize Water Distribution in a Village,optimize-water-distribution-in-a-village,hard,549,22,24.954545454545453
+1261,Swap For Longest Repeated Character Substring,swap-for-longest-repeated-character-substring,medium,548,52,10.538461538461538
+938,Numbers At Most N Given Digit Set,numbers-at-most-n-given-digit-set,hard,544,70,7.771428571428571
+509,Inorder Successor in BST II,inorder-successor-in-bst-ii,medium,544,27,20.14814814814815
+786,Search in a Sorted Array of Unknown Size,search-in-a-sorted-array-of-unknown-size,medium,543,31,17.516129032258064
+562,Longest Line of Consecutive One in Matrix,longest-line-of-consecutive-one-in-matrix,medium,539,91,5.923076923076923
+1342,Queens That Can Attack the King,queens-that-can-attack-the-king,medium,538,103,5.223300970873787
+1642,Water Bottles,water-bottles,easy,537,43,12.488372093023257
+1483,Rank Teams by Votes,rank-teams-by-votes,medium,537,65,8.261538461538462
+1038,Number of Squareful Arrays,number-of-squareful-arrays,hard,537,22,24.40909090909091
+365,Water and Jug Problem,water-and-jug-problem,medium,537,952,0.5640756302521008
+1329,Minimum Cost to Move Chips to The Same Position,minimum-cost-to-move-chips-to-the-same-position,easy,536,76,7.052631578947368
+751,Number Of Corner Rectangles,number-of-corner-rectangles,medium,534,78,6.846153846153846
+947,Online Election,online-election,medium,533,440,1.2113636363636364
+468,Validate IP Address,validate-ip-address,medium,533,2113,0.2522479886417416
+320,Generalized Abbreviation,generalized-abbreviation,medium,530,161,3.2919254658385095
+8,String to Integer (atoi),string-to-integer-atoi,medium,530,1435,0.3693379790940767
+1307,Ugly Number III,ugly-number-iii,medium,529,325,1.6276923076923078
+857,Positions of Large Groups,positions-of-large-groups,easy,529,106,4.990566037735849
+1403,Palindrome Partitioning III,palindrome-partitioning-iii,hard,528,12,44.0
+1378,Cells with Odd Values in a Matrix,cells-with-odd-values-in-a-matrix,easy,527,855,0.6163742690058479
+1622,Max Value of Equation,max-value-of-equation,hard,526,21,25.047619047619047
+862,Find And Replace in String,find-and-replace-in-string,medium,524,591,0.8866328257191202
+1571,Allocate Mailboxes,allocate-mailboxes,hard,523,8,65.375
+593,Valid Square,valid-square,medium,523,642,0.8146417445482866
+1633,Minimum Number of Increments on Subarrays to Form a Target Array,minimum-number-of-increments-on-subarrays-to-form-a-target-array,hard,520,37,14.054054054054054
+1221,Element Appearing More Than 25% In Sorted Array,element-appearing-more-than-25-in-sorted-array,easy,520,35,14.857142857142858
+1807,Partitioning Into Minimum Number Of Deci-Binary Numbers,partitioning-into-minimum-number-of-deci-binary-numbers,medium,518,395,1.3113924050632912
+1666,Make The String Great,make-the-string-great,easy,518,46,11.26086956521739
+955,Complete Binary Tree Inserter,complete-binary-tree-inserter,medium,518,65,7.969230769230769
+1808,Stone Game VII,stone-game-vii,medium,517,112,4.616071428571429
+1074,High Five,high-five,easy,517,89,5.808988764044944
+1515,Find the Minimum Number of Fibonacci Numbers Whose Sum Is K,find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k,medium,515,43,11.976744186046512
+1586,Longest Subarray of 1's After Deleting One Element,longest-subarray-of-1s-after-deleting-one-element,medium,514,12,42.833333333333336
+880,Rectangle Area II,rectangle-area-ii,hard,514,34,15.117647058823529
+352,Data Stream as Disjoint Intervals,data-stream-as-disjoint-intervals,hard,514,124,4.145161290322581
+993,Tallest Billboard,tallest-billboard,hard,513,19,27.0
+400,Nth Digit,nth-digit,medium,512,1299,0.39414934565050036
+2067,Maximum Number of Points with Cost,maximum-number-of-points-with-cost,medium,510,19,26.842105263157894
+1567,Maximum Number of Vowels in a Substring of Given Length,maximum-number-of-vowels-in-a-substring-of-given-length,medium,510,27,18.88888888888889
+1238,Alphabet Board Path,alphabet-board-path,medium,510,121,4.214876033057851
+827,Expressive Words,expressive-words,medium,510,1222,0.41734860883797054
+624,Maximum Distance in Arrays,maximum-distance-in-arrays,medium,510,59,8.64406779661017
+949,Cat and Mouse,cat-and-mouse,hard,509,93,5.473118279569892
+1985,Maximum Subarray Min-Product,maximum-subarray-min-product,medium,508,26,19.53846153846154
+1777,Determine if Two Strings Are Close,determine-if-two-strings-are-close,medium,502,31,16.193548387096776
+644,Maximum Average Subarray II,maximum-average-subarray-ii,hard,501,55,9.10909090909091
+391,Perfect Rectangle,perfect-rectangle,hard,501,90,5.566666666666666
+1054,Complement of Base 10 Integer,complement-of-base-10-integer,easy,499,45,11.088888888888889
+471,Encode String with Shortest Length,encode-string-with-shortest-length,hard,499,27,18.48148148148148
+748,Largest Number At Least Twice of Others,largest-number-at-least-twice-of-others,easy,497,694,0.7161383285302594
+1534,Minimum Number of Frogs Croaking,minimum-number-of-frogs-croaking,medium,496,32,15.5
+1177,Tree Diameter,tree-diameter,medium,496,11,45.09090909090909
+1275,Validate Binary Tree Nodes,validate-binary-tree-nodes,medium,495,177,2.7966101694915255
+797,Rabbits in Forest,rabbits-in-forest,medium,494,412,1.1990291262135921
+1091,Maximum Average Subtree,maximum-average-subtree,medium,493,15,32.86666666666667
+1765,Merge In Between Linked Lists,merge-in-between-linked-lists,medium,492,82,6.0
+1690,Maximum Length of Subarray With Positive Product,maximum-length-of-subarray-with-positive-product,medium,492,7,70.28571428571429
+1192,Divide Chocolate,divide-chocolate,hard,492,35,14.057142857142857
+447,Number of Boomerangs,number-of-boomerangs,medium,492,782,0.629156010230179
+1676,Minimum Number of Days to Eat N Oranges,minimum-number-of-days-to-eat-n-oranges,hard,491,37,13.27027027027027
+1558,Course Schedule IV,course-schedule-iv,medium,490,44,11.136363636363637
+251,Flatten 2D Vector,flatten-2d-vector,medium,490,272,1.8014705882352942
+1831,Ways to Split Array Into Three Subarrays,ways-to-split-array-into-three-subarrays,medium,489,50,9.78
+859,Design Circular Deque,design-circular-deque,medium,489,48,10.1875
+1224,Minimum Falling Path Sum II,minimum-falling-path-sum-ii,hard,488,50,9.76
+722,Remove Comments,remove-comments,medium,488,1308,0.3730886850152905
+991,Array of Doubled Pairs,array-of-doubled-pairs,medium,487,69,7.057971014492754
+1107,Minimum Swaps to Group All 1's Together,minimum-swaps-to-group-all-1s-together,medium,485,4,121.25
+1516,The k-th Lexicographical String of All Happy Strings of Length n,the-k-th-lexicographical-string-of-all-happy-strings-of-length-n,medium,484,15,32.266666666666666
+1604,Least Number of Unique Integers after K Removals,least-number-of-unique-integers-after-k-removals,medium,483,48,10.0625
+804,Rotated Digits,rotated-digits,medium,483,1579,0.3058898036732109
+1798,Max Number of K-Sum Pairs,max-number-of-k-sum-pairs,medium,482,21,22.952380952380953
+1165,Meeting Scheduler,meeting-scheduler,medium,481,22,21.863636363636363
+900,Reordered Power of 2,reordered-power-of-2,medium,480,156,3.076923076923077
+294,Flip Game II,flip-game-ii,medium,480,42,11.428571428571429
+281,Zigzag Iterator,zigzag-iterator,medium,480,25,19.2
+1617,Stone Game IV,stone-game-iv,hard,479,27,17.74074074074074
+986,Largest Time for Given Digits,largest-time-for-given-digits,medium,479,854,0.5608899297423887
+1652,Bulb Switcher IV,bulb-switcher-iv,medium,473,25,18.92
+1631,Number of Sub-arrays With Odd Sum,number-of-sub-arrays-with-odd-sum,medium,473,19,24.894736842105264
+1309,Sort Items by Groups Respecting Dependencies,sort-items-by-groups-respecting-dependencies,hard,473,74,6.391891891891892
+1321,Get Equal Substrings Within Budget,get-equal-substrings-within-budget,medium,472,37,12.756756756756756
+960,Minimize Malware Spread,minimize-malware-spread,hard,472,359,1.3147632311977715
+1845,Largest Submatrix With Rearrangements,largest-submatrix-with-rearrangements,medium,470,15,31.333333333333332
+1569,Max Dot Product of Two Subsequences,max-dot-product-of-two-subsequences,hard,470,10,47.0
+1737,Maximum Nesting Depth of the Parentheses,maximum-nesting-depth-of-the-parentheses,easy,468,116,4.0344827586206895
+1556,Make Two Arrays Equal by Reversing Sub-arrays,make-two-arrays-equal-by-reversing-sub-arrays,easy,468,87,5.379310344827586
+1781,Check If Two String Arrays are Equivalent,check-if-two-string-arrays-are-equivalent,easy,467,93,5.021505376344086
+1502,Construct K Palindrome Strings,construct-k-palindrome-strings,medium,465,52,8.942307692307692
+788,Minimize Max Distance to Gas Station,minimize-max-distance-to-gas-station,hard,465,67,6.940298507462686
+1101,Parallel Courses,parallel-courses,medium,463,15,30.866666666666667
+973,Stamping The Sequence,stamping-the-sequence,hard,463,115,4.026086956521739
+233,Number of Digit One,number-of-digit-one,hard,463,802,0.5773067331670823
+1782,Smallest String With A Given Numeric Value,smallest-string-with-a-given-numeric-value,medium,462,18,25.666666666666668
+1290,Make Array Strictly Increasing,make-array-strictly-increasing,hard,462,11,42.0
+894,Random Pick with Blacklist,random-pick-with-blacklist,hard,462,81,5.703703703703703
+1510,Find Lucky Integer in an Array,find-lucky-integer-in-an-array,easy,461,17,27.11764705882353
+651,4 Keys Keyboard,4-keys-keyboard,medium,457,65,7.030769230769231
+1531,Number of Ways to Wear Different Hats to Each Other,number-of-ways-to-wear-different-hats-to-each-other,hard,456,5,91.2
+1466,Jump Game V,jump-game-v,hard,456,18,25.333333333333332
+2001,Jump Game VII,jump-game-vii,medium,454,26,17.46153846153846
+878,Shifting Letters,shifting-letters,medium,454,79,5.746835443037975
+1794,Minimize Deviation in Array,minimize-deviation-in-array,hard,453,19,23.842105263157894
+521,Longest Uncommon Subsequence I,longest-uncommon-subsequence-i,easy,453,4951,0.09149666733993132
+517,Super Washing Machines,super-washing-machines,hard,452,168,2.6904761904761907
+440,K-th Smallest in Lexicographical Order,k-th-smallest-in-lexicographical-order,hard,452,66,6.848484848484849
+1786,Count the Number of Consistent Strings,count-the-number-of-consistent-strings,easy,451,30,15.033333333333333
+1471,Maximum Students Taking Exam,maximum-students-taking-exam,hard,449,10,44.9
+484,Find Permutation,find-permutation,medium,448,70,6.4
+1468,Check If N and Its Double Exist,check-if-n-and-its-double-exist,easy,447,68,6.573529411764706
+763,Special Binary String,special-binary-string,hard,446,152,2.9342105263157894
+1757,Minimum Jumps to Reach Home,minimum-jumps-to-reach-home,medium,443,97,4.56701030927835
+1560,Number of Students Doing Homework at a Given Time,number-of-students-doing-homework-at-a-given-time,easy,442,110,4.0181818181818185
+1324,Where Will the Ball Fall,where-will-the-ball-fall,medium,439,34,12.911764705882353
+852,Friends Of Appropriate Ages,friends-of-appropriate-ages,medium,439,883,0.4971687429218573
+360,Sort Transformed Array,sort-transformed-array,medium,437,126,3.4682539682539684
+170,Two Sum III - Data structure design,two-sum-iii-data-structure-design,easy,436,322,1.3540372670807452
+1508,Longest Happy Prefix,longest-happy-prefix,hard,434,21,20.666666666666668
+1787,Sum of Absolute Differences in a Sorted Array,sum-of-absolute-differences-in-a-sorted-array,medium,433,13,33.30769230769231
+1423,Maximum Number of Occurrences of a Substring,maximum-number-of-occurrences-of-a-substring,medium,432,235,1.8382978723404255
+507,Perfect Number,perfect-number,easy,432,766,0.5639686684073107
+1587,Parallel Courses II,parallel-courses-ii,hard,431,34,12.676470588235293
+1350,Remove Sub-Folders from the Filesystem,remove-sub-folders-from-the-filesystem,medium,431,66,6.53030303030303
+762,Find Anagram Mappings,find-anagram-mappings,easy,431,183,2.3551912568306013
+1197,Parsing A Boolean Expression,parsing-a-boolean-expression,hard,430,23,18.695652173913043
+1962,Single-Threaded CPU,single-threaded-cpu,medium,429,70,6.128571428571429
+1514,Minimum Value to Get Positive Step by Step Sum,minimum-value-to-get-positive-step-by-step-sum,easy,429,129,3.3255813953488373
+1848,Sum of Unique Elements,sum-of-unique-elements,easy,428,13,32.92307692307692
+1387,Find Elements in a Contaminated Binary Tree,find-elements-in-a-contaminated-binary-tree,medium,428,65,6.584615384615384
+1071,Binary Prefix Divisible By 5,binary-prefix-divisible-by-5,easy,428,124,3.4516129032258065
+157,Read N Characters Given Read4,read-n-characters-given-read4,easy,426,2545,0.16738703339882122
+1840,Minimize Hamming Distance After Swap Operations,minimize-hamming-distance-after-swap-operations,medium,422,11,38.36363636363637
+1045,Check If Word Is Valid After Substitutions,check-if-word-is-valid-after-substitutions,medium,418,407,1.027027027027027
+1472,Increasing Decreasing String,increasing-decreasing-string,easy,417,483,0.8633540372670807
+2017,Minimum Number of Flips to Make the Binary String Alternating,minimum-number-of-flips-to-make-the-binary-string-alternating,medium,416,16,26.0
+1489,Pizza With 3n Slices,pizza-with-3n-slices,hard,416,5,83.2
+1147,Flip Columns For Maximum Number of Equal Rows,flip-columns-for-maximum-number-of-equal-rows,medium,416,32,13.0
+1626,Can Make Arithmetic Progression From Sequence,can-make-arithmetic-progression-from-sequence,easy,415,33,12.575757575757576
+1287,Distance Between Bus Stops,distance-between-bus-stops,easy,415,47,8.829787234042554
+1281,Can Make Palindrome from Substring,can-make-palindrome-from-substring,medium,415,202,2.0544554455445545
+1080,Camelcase Matching,camelcase-matching,medium,414,184,2.25
+1756,Minimum Deletions to Make String Balanced,minimum-deletions-to-make-string-balanced,medium,412,13,31.692307692307693
+1060,Longest Repeating Substring,longest-repeating-substring,medium,412,24,17.166666666666668
+1398,Number of Ways to Stay in the Same Place After Some Steps,number-of-ways-to-stay-in-the-same-place-after-some-steps,hard,410,25,16.4
+881,Loud and Rich,loud-and-rich,medium,409,409,1.0
+2044,Number of Wonderful Substrings,number-of-wonderful-substrings,medium,408,31,13.161290322580646
+598,Range Addition II,range-addition-ii,easy,408,639,0.6384976525821596
+1252,Break a Palindrome,break-a-palindrome,medium,406,346,1.1734104046242775
+1766,Minimum Number of Removals to Make Mountain Array,minimum-number-of-removals-to-make-mountain-array,hard,405,6,67.5
+1507,Check if There is a Valid Path in a Grid,check-if-there-is-a-valid-path-in-a-grid,medium,403,197,2.045685279187817
+2027,Maximum Number of Removable Characters,maximum-number-of-removable-characters,medium,402,57,7.052631578947368
+1833,Find the Highest Altitude,find-the-highest-altitude,easy,402,44,9.136363636363637
+1668,Find Longest Awesome Substring,find-longest-awesome-substring,hard,402,10,40.2
+1273,Compare Strings by Frequency of the Smallest Character,compare-strings-by-frequency-of-the-smallest-character,medium,401,837,0.47909199522102747
+1806,Count of Matches in Tournament,count-of-matches-in-tournament,easy,400,85,4.705882352941177
+1389,Minimum Moves to Move a Box to Their Target Location,minimum-moves-to-move-a-box-to-their-target-location,hard,400,24,16.666666666666668
+1659,Get the Maximum Score,get-the-maximum-score,hard,399,26,15.346153846153847
+757,Pyramid Transition Matrix,pyramid-transition-matrix,medium,399,398,1.0025125628140703
+1849,Maximum Absolute Sum of Any Subarray,maximum-absolute-sum-of-any-subarray,medium,397,8,49.625
+1802,Number of Students Unable to Eat Lunch,number-of-students-unable-to-eat-lunch,easy,397,28,14.178571428571429
+1064,Smallest Integer Divisible by K,smallest-integer-divisible-by-k,medium,397,401,0.9900249376558603
+1583,Paint House III,paint-house-iii,hard,396,20,19.8
+1545,Form Largest Integer With Digits That Add up to Target,form-largest-integer-with-digits-that-add-up-to-target,hard,395,6,65.83333333333333
+1537,Maximum Score After Splitting a String,maximum-score-after-splitting-a-string,easy,394,21,18.761904761904763
+1400,Find Winner on a Tic Tac Toe Game,find-winner-on-a-tic-tac-toe-game,easy,394,120,3.283333333333333
+1381,Maximum Score Words Formed by Letters,maximum-score-words-formed-by-letters,hard,394,29,13.586206896551724
+1772,Create Sorted Array through Instructions,create-sorted-array-through-instructions,hard,393,54,7.277777777777778
+1708,Design Parking System,design-parking-system,easy,393,193,2.0362694300518136
+564,Find the Closest Palindrome,find-the-closest-palindrome,hard,393,1025,0.38341463414634147
+1731,Even Odd Tree,even-odd-tree,medium,391,28,13.964285714285714
+1715,Split a String Into the Max Number of Unique Substrings,split-a-string-into-the-max-number-of-unique-substrings,medium,391,14,27.928571428571427
+939,Valid Permutations for DI Sequence,valid-permutations-for-di-sequence,hard,391,33,11.848484848484848
+1839,Decode XORed Array,decode-xored-array,easy,389,63,6.174603174603175
+1648,Minimum Insertions to Balance a Parentheses String,minimum-insertions-to-balance-a-parentheses-string,medium,389,84,4.630952380952381
+444,Sequence Reconstruction,sequence-reconstruction,medium,389,1278,0.30438184663536777
+1952,Minimum Sideway Jumps,minimum-sideway-jumps,medium,388,19,20.42105263157895
+1899,Count Items Matching a Rule,count-items-matching-a-rule,easy,387,63,6.142857142857143
+936,RLE Iterator,rle-iterator,medium,387,116,3.336206896551724
+1716,Maximum Non Negative Product in a Matrix,maximum-non-negative-product-in-a-matrix,medium,384,21,18.285714285714285
+1701,Remove Max Number of Edges to Keep Graph Fully Traversable,remove-max-number-of-edges-to-keep-graph-fully-traversable,hard,382,3,127.33333333333333
+1585,The kth Factor of n,the-kth-factor-of-n,medium,381,149,2.557046979865772
+759,Set Intersection Size At Least Two,set-intersection-size-at-least-two,hard,381,47,8.106382978723405
+568,Maximum Vacation Days,maximum-vacation-days,hard,381,65,5.861538461538461
+1797,Goal Parser Interpretation,goal-parser-interpretation,easy,380,43,8.837209302325581
+1076,Brace Expansion,brace-expansion,medium,379,35,10.82857142857143
+1771,Sell Diminishing-Valued Colored Balls,sell-diminishing-valued-colored-balls,medium,378,112,3.375
+992,Delete Columns to Make Sorted II,delete-columns-to-make-sorted-ii,medium,378,59,6.406779661016949
+1695,Maximum Sum Obtained of Any Permutation,maximum-sum-obtained-of-any-permutation,medium,377,22,17.136363636363637
+1657,Find the Winner of an Array Game,find-the-winner-of-an-array-game,medium,376,24,15.666666666666666
+1615,Range Sum of Sorted Subarray Sums,range-sum-of-sorted-subarray-sums,medium,376,72,5.222222222222222
+1530,Check If a String Can Break Another String,check-if-a-string-can-break-another-string,medium,376,94,4.0
+1689,Detect Pattern of Length M Repeated K or More Times,detect-pattern-of-length-m-repeated-k-or-more-times,easy,375,59,6.3559322033898304
+1386,Shift 2D Grid,shift-2d-grid,easy,375,127,2.952755905511811
+496,Next Greater Element I,next-greater-element-i,easy,375,28,13.392857142857142
+384,Shuffle an Array,shuffle-an-array,medium,375,401,0.9351620947630923
+1739,Split Two Strings to Make Palindrome,split-two-strings-to-make-palindrome,medium,374,175,2.137142857142857
+1524,String Matching in an Array,string-matching-in-an-array,easy,374,64,5.84375
+149,Max Points on a Line,max-points-on-a-line,hard,374,83,4.506024096385542
+1866,Restore the Array From Adjacent Pairs,restore-the-array-from-adjacent-pairs,medium,372,4,93.0
+1644,Maximum Number of Non-Overlapping Substrings,maximum-number-of-non-overlapping-substrings,hard,372,49,7.591836734693878
+1619,Path Crossing,path-crossing,easy,372,7,53.142857142857146
+1461,Count All Valid Pickup and Delivery Options,count-all-valid-pickup-and-delivery-options,hard,372,44,8.454545454545455
+1239,Largest 1-Bordered Square,largest-1-bordered-square,medium,372,67,5.552238805970149
+929,Groups of Special-Equivalent Strings,groups-of-special-equivalent-strings,medium,371,1348,0.27522255192878337
+420,Strong Password Checker,strong-password-checker,hard,371,1074,0.34543761638733705
+1684,Find Latest Group of Size M,find-latest-group-of-size-m,medium,370,81,4.567901234567901
+1566,Check If a Word Occurs As a Prefix of Any Word in a Sentence,check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence,easy,370,15,24.666666666666668
+1227,Number of Equivalent Domino Pairs,number-of-equivalent-domino-pairs,easy,370,190,1.9473684210526316
+1912,Number of Restricted Paths From First to Last Node,number-of-restricted-paths-from-first-to-last-node,medium,369,65,5.676923076923077
+1133,Last Substring in Lexicographical Order,last-substring-in-lexicographical-order,hard,369,384,0.9609375
+772,Construct Quad Tree,construct-quad-tree,medium,369,535,0.6897196261682244
+246,Strobogrammatic Number,strobogrammatic-number,easy,367,621,0.5909822866344605
+699,Falling Squares,falling-squares,hard,366,66,5.545454545454546
+561,Array Partition I,array-partition-i,easy,366,74,4.945945945945946
+1361,Tiling a Rectangle with the Fewest Squares,tiling-a-rectangle-with-the-fewest-squares,hard,365,346,1.0549132947976878
+1636,Number of Substrings With Only 1s,number-of-substrings-with-only-1s,medium,364,18,20.22222222222222
+1520,Number of Steps to Reduce a Number in Binary Representation to One,number-of-steps-to-reduce-a-number-in-binary-representation-to-one,medium,364,28,13.0
+1282,Number of Valid Words for Each Puzzle,number-of-valid-words-for-each-puzzle,hard,364,36,10.11111111111111
+921,Spiral Matrix III,spiral-matrix-iii,medium,364,434,0.8387096774193549
+1683,Maximum Number of Coins You Can Get,maximum-number-of-coins-you-can-get,medium,363,64,5.671875
+927,Sum of Subsequence Widths,sum-of-subsequence-widths,hard,363,121,3.0
+1993,Sum of All Subset XOR Totals,sum-of-all-subset-xor-totals,easy,362,43,8.418604651162791
+767,Prime Number of Set Bits in Binary Representation,prime-number-of-set-bits-in-binary-representation,easy,362,417,0.86810551558753
+504,Base 7,base-7,easy,362,173,2.092485549132948
+423,Reconstruct Original Digits from English,reconstruct-original-digits-from-english,medium,362,1064,0.34022556390977443
+1738,Maximal Network Rank,maximal-network-rank,medium,361,80,4.5125
+1409,Minimum Number of Flips to Convert Binary Matrix to Zero Matrix,minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix,hard,361,37,9.756756756756756
+1230,Maximum of Absolute Value Expression,maximum-of-absolute-value-expression,medium,361,287,1.2578397212543555
+649,Dota2 Senate,dota2-senate,medium,361,274,1.3175182481751824
+326,Power of Three,power-of-three,easy,361,47,7.680851063829787
+1835,Decode XORed Permutation,decode-xored-permutation,medium,358,13,27.53846153846154
+1262,Online Majority Element In Subarray,online-majority-element-in-subarray,hard,358,39,9.179487179487179
+1743,Count Substrings That Differ by One Character,count-substrings-that-differ-by-one-character,medium,357,165,2.1636363636363636
+1041,Available Captures for Rook,available-captures-for-rook,easy,357,525,0.68
+1824,Maximum Number of Eaten Apples,maximum-number-of-eaten-apples,medium,356,133,2.6766917293233083
+1561,Rearrange Words in a Sentence,rearrange-words-in-a-sentence,medium,356,56,6.357142857142857
+635,Design Log Storage System,design-log-storage-system,medium,356,152,2.3421052631578947
+1951,Find the Winner of the Circular Game,find-the-winner-of-the-circular-game,medium,355,12,29.583333333333332
+1896,Maximum Score from Performing Multiplication Operations,maximum-score-from-performing-multiplication-operations,medium,355,87,4.080459770114943
+1889,Check if Number is a Sum of Powers of Three,check-if-number-is-a-sum-of-powers-of-three,medium,354,15,23.6
+2022,Maximum Alternating Subsequence Sum,maximum-alternating-subsequence-sum,medium,353,5,70.6
+1000,Delete Columns to Make Sorted III,delete-columns-to-make-sorted-iii,hard,352,9,39.111111111111114
+1918,Maximum Score of a Good Subarray,maximum-score-of-a-good-subarray,hard,350,17,20.58823529411765
+2035,Count Sub Islands,count-sub-islands,medium,349,16,21.8125
+1970,Sorting the Sentence,sorting-the-sentence,easy,349,11,31.727272727272727
+1815,Checking Existence of Edge Length Limited Paths,checking-existence-of-edge-length-limited-paths,hard,349,6,58.166666666666664
+928,Surface Area of 3D Shapes,surface-area-of-3d-shapes,easy,348,496,0.7016129032258065
+914,Random Point in Non-overlapping Rectangles,random-point-in-non-overlapping-rectangles,medium,348,549,0.6338797814207651
+736,Parse Lisp Expression,parse-lisp-expression,hard,348,259,1.3436293436293436
+944,Smallest Range I,smallest-range-i,easy,347,1438,0.24130737134909597
+1555,Number of Ways of Cutting a Pizza,number-of-ways-of-cutting-a-pizza,hard,346,9,38.44444444444444
+911,Profitable Schemes,profitable-schemes,hard,346,36,9.61111111111111
+372,Super Pow,super-pow,medium,346,943,0.3669141039236479
+1713,Dot Product of Two Sparse Vectors,dot-product-of-two-sparse-vectors,medium,344,48,7.166666666666667
+899,Binary Gap,binary-gap,easy,344,568,0.6056338028169014
+1917,Maximum Average Pass Ratio,maximum-average-pass-ratio,medium,343,43,7.976744186046512
+1823,Determine if String Halves Are Alike,determine-if-string-halves-are-alike,easy,343,30,11.433333333333334
+1026,String Without AAA or BBB,string-without-aaa-or-bbb,medium,343,301,1.1395348837209303
+1830,Count Good Meals,count-good-meals,medium,342,154,2.220779220779221
+888,Mirror Reflection,mirror-reflection,medium,342,679,0.5036818851251841
+1876,Map of Highest Peak,map-of-highest-peak,medium,341,27,12.62962962962963
+1730,Special Array With X Elements Greater Than or Equal X,special-array-with-x-elements-greater-than-or-equal-x,easy,341,60,5.683333333333334
+1663,Detect Cycles in 2D Grid,detect-cycles-in-2d-grid,hard,341,9,37.888888888888886
+663,Equal Tree Partition,equal-tree-partition,medium,341,24,14.208333333333334
+1094,Matrix Cells in Distance Order,matrix-cells-in-distance-order,easy,340,164,2.073170731707317
+2012,Process Tasks Using Servers,process-tasks-using-servers,medium,338,113,2.9911504424778763
+1535,Build Array Where You Can Find The Maximum Exactly K Comparisons,build-array-where-you-can-find-the-maximum-exactly-k-comparisons,hard,338,8,42.25
+434,Number of Segments in a String,number-of-segments-in-a-string,easy,338,899,0.3759733036707453
+511,All Paths from Source Lead to Destination,all-paths-from-source-lead-to-destination,medium,337,56,6.017857142857143
+1793,Minimum Moves to Make Array Complementary,minimum-moves-to-make-array-complementary,medium,336,43,7.813953488372093
+1584,Average Salary Excluding the Minimum and Maximum Salary,average-salary-excluding-the-minimum-and-maximum-salary,easy,335,71,4.71830985915493
+1106,Escape a Large Maze,escape-a-large-maze,hard,335,122,2.7459016393442623
+537,Complex Number Multiplication,complex-number-multiplication,medium,334,860,0.3883720930232558
+1637,String Compression II,string-compression-ii,hard,333,32,10.40625
+548,Split Array with Equal Sum,split-array-with-equal-sum,hard,332,115,2.8869565217391306
+1902,Car Fleet II,car-fleet-ii,hard,329,7,47.0
+964,Minimize Malware Spread II,minimize-malware-spread-ii,hard,329,63,5.222222222222222
+1552,Build an Array With Stack Operations,build-an-array-with-stack-operations,easy,328,573,0.5724258289703316
+1057,Numbers With Repeated Digits,numbers-with-repeated-digits,hard,328,55,5.963636363636364
+1658,Minimum Swaps to Arrange a Binary Grid,minimum-swaps-to-arrange-a-binary-grid,medium,325,54,6.018518518518518
+919,Projection Area of 3D Shapes,projection-area-of-3d-shapes,easy,325,1022,0.31800391389432486
+771,Encode N-ary Tree to Binary Tree,encode-n-ary-tree-to-binary-tree,hard,324,17,19.058823529411764
+1817,Calculate Money in Leetcode Bank,calculate-money-in-leetcode-bank,easy,323,11,29.363636363636363
+544,Output Contest Matches,output-contest-matches,medium,323,103,3.1359223300970873
+824,Number of Lines To Write String,number-of-lines-to-write-string,easy,322,1023,0.3147605083088954
+1996,Number of Ways to Rearrange Sticks With K Sticks Visible,number-of-ways-to-rearrange-sticks-with-k-sticks-visible,hard,321,6,53.5
+1043,Grid Illumination,grid-illumination,hard,321,87,3.689655172413793
+915,Generate Random Point in a Circle,generate-random-point-in-a-circle,medium,320,620,0.5161290322580645
+1825,Find Minimum Time to Finish All Jobs,find-minimum-time-to-finish-all-jobs,hard,319,12,26.583333333333332
+661,Image Smoother,image-smoother,easy,319,1353,0.23577235772357724
+1929,Maximum Value at a Given Index in a Bounded Array,maximum-value-at-a-given-index-in-a-bounded-array,medium,318,51,6.235294117647059
+1752,Arithmetic Subarrays,arithmetic-subarrays,medium,317,43,7.372093023255814
+1404,Print Immutable Linked List in Reverse,print-immutable-linked-list-in-reverse,medium,317,64,4.953125
+1149,Intersection of Three Sorted Arrays,intersection-of-three-sorted-arrays,easy,317,20,15.85
+910,Nth Magical Number,nth-magical-number,hard,317,74,4.283783783783784
+492,Construct the Rectangle,construct-the-rectangle,easy,317,297,1.0673400673400673
+1548,Check If All 1's Are at Least Length K Places Away,check-if-all-1s-are-at-least-length-k-places-away,easy,316,186,1.6989247311827957
+604,Design Compressed String Iterator,design-compressed-string-iterator,easy,316,110,2.8727272727272726
+1788,Stone Game VI,stone-game-vi,medium,315,22,14.318181818181818
+1901,Equal Sum Arrays With Minimum Number of Operations,equal-sum-arrays-with-minimum-number-of-operations,medium,314,8,39.25
+1581,The k Strongest Values in an Array,the-k-strongest-values-in-an-array,medium,314,79,3.9746835443037973
+393,UTF-8 Validation,utf-8-validation,medium,314,1334,0.2353823088455772
+1930,Maximum Number of Consecutive Values You Can Make,maximum-number-of-consecutive-values-you-can-make,medium,313,27,11.592592592592593
+1871,Palindrome Partitioning IV,palindrome-partitioning-iv,hard,313,9,34.77777777777778
+1678,Number of Ways to Split a String,number-of-ways-to-split-a-string,medium,313,47,6.659574468085107
+1532,Reformat The String,reformat-the-string,easy,311,64,4.859375
+1445,Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold,number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold,medium,311,46,6.760869565217392
+1251,Longest Chunked Palindrome Decomposition,longest-chunked-palindrome-decomposition,hard,311,19,16.36842105263158
+1006,Vowel Spellchecker,vowel-spellchecker,medium,311,669,0.4648729446935725
+1790,Lowest Common Ancestor of a Binary Tree III,lowest-common-ancestor-of-a-binary-tree-iii,medium,310,12,25.833333333333332
+640,Solve the Equation,solve-the-equation,medium,309,624,0.4951923076923077
+1984,Maximum Distance Between a Pair of Values,maximum-distance-between-a-pair-of-values,medium,308,6,51.333333333333336
+1720,Crawler Log Folder,crawler-log-folder,easy,308,25,12.32
+1487,Cinema Seat Allocation,cinema-seat-allocation,medium,307,177,1.734463276836158
+385,Mini Parser,mini-parser,medium,307,1014,0.3027613412228797
+1188,Brace Expansion II,brace-expansion-ii,hard,306,182,1.6813186813186813
+810,Valid Tic-Tac-Toe State,valid-tic-tac-toe-state,medium,306,830,0.3686746987951807
+1364,Tuple with Same Product,tuple-with-same-product,medium,305,15,20.333333333333332
+587,Erect the Fence,erect-the-fence,hard,305,206,1.4805825242718447
+1449,Print Words Vertically,print-words-vertically,medium,303,80,3.7875
+439,Ternary Expression Parser,ternary-expression-parser,medium,303,39,7.769230769230769
+1704,Special Positions in a Binary Matrix,special-positions-in-a-binary-matrix,easy,302,13,23.23076923076923
+488,Zuma Game,zuma-game,hard,302,335,0.9014925373134328
+1960,Check if the Sentence Is Pangram,check-if-the-sentence-is-pangram,easy,301,9,33.44444444444444
+1662,Minimum Numbers of Function Calls to Make Target Array,minimum-numbers-of-function-calls-to-make-target-array,medium,301,16,18.8125
+1656,Count Good Triplets,count-good-triplets,easy,301,704,0.4275568181818182
+1832,Minimum Operations to Make a Subsequence,minimum-operations-to-make-a-subsequence,hard,300,4,75.0
+1441,Minimum Flips to Make a OR b Equal to c,minimum-flips-to-make-a-or-b-equal-to-c,medium,300,30,10.0
+2059,Unique Length-3 Palindromic Subsequences,unique-length-3-palindromic-subsequences,medium,299,10,29.9
+1938,Minimum Operations to Make the Array Increasing,minimum-operations-to-make-the-array-increasing,easy,299,14,21.357142857142858
+1150,Two Sum BSTs,two-sum-bsts,medium,297,29,10.241379310344827
+1613,Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree,find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree,hard,296,36,8.222222222222221
+1157,Insufficient Nodes in Root to Leaf Paths,insufficient-nodes-in-root-to-leaf-paths,medium,296,402,0.736318407960199
+1123,Single-Row Keyboard,single-row-keyboard,easy,295,16,18.4375
+1826,Maximum XOR With an Element From Array,maximum-xor-with-an-element-from-array,hard,294,12,24.5
+1277,Largest Multiple of Three,largest-multiple-of-three,hard,294,45,6.533333333333333
+1176,Design A Leaderboard,design-a-leaderboard,medium,294,60,4.9
+1077,Confusing Number II,confusing-number-ii,hard,294,81,3.6296296296296298
+1755,Defuse the Bomb,defuse-the-bomb,easy,293,35,8.371428571428572
+1698,Replace All ?'s to Avoid Consecutive Repeating Characters,replace-all-s-to-avoid-consecutive-repeating-characters,easy,293,125,2.344
+1362,Airplane Seat Assignment Probability,airplane-seat-assignment-probability,medium,292,531,0.5499058380414312
+1084,Find K-Length Substrings With No Repeated Characters,find-k-length-substrings-with-no-repeated-characters,medium,291,6,48.5
+2031,Egg Drop With 2 Eggs and N Floors,egg-drop-with-2-eggs-and-n-floors,medium,290,23,12.608695652173912
+1819,Construct the Lexicographically Largest Valid Sequence,construct-the-lexicographically-largest-valid-sequence,medium,290,23,12.608695652173912
+1884,Minimum Changes To Make Alternating Binary String,minimum-changes-to-make-alternating-binary-string,easy,288,7,41.142857142857146
+1040,Maximum Binary Tree II,maximum-binary-tree-ii,medium,288,555,0.518918918918919
+1643,Number of Nodes in the Sub-Tree With the Same Label,number-of-nodes-in-the-sub-tree-with-the-same-label,medium,287,289,0.9930795847750865
+1805,Minimum Adjacent Swaps for K Consecutive Ones,minimum-adjacent-swaps-for-k-consecutive-ones,hard,286,9,31.77777777777778
+1344,Maximum Equal Frequency,maximum-equal-frequency,hard,286,30,9.533333333333333
+814,Smallest Rotation with Highest Score,smallest-rotation-with-highest-score,hard,286,18,15.88888888888889
+1879,Maximum Score From Removing Stones,maximum-score-from-removing-stones,medium,284,25,11.36
+573,Squirrel Simulation,squirrel-simulation,medium,284,30,9.466666666666667
+1989,Minimum XOR Sum of Two Arrays,minimum-xor-sum-of-two-arrays,hard,283,6,47.166666666666664
+1767,Design Front Middle Back Queue,design-front-middle-back-queue,medium,283,56,5.053571428571429
+935,Orderly Queue,orderly-queue,hard,283,235,1.2042553191489362
+1143,Find Smallest Common Element in All Rows,find-smallest-common-element-in-all-rows,medium,282,20,14.1
+245,Shortest Word Distance III,shortest-word-distance-iii,medium,282,79,3.569620253164557
+1894,Merge Strings Alternately,merge-strings-alternately,easy,281,5,56.2
+942,Super Palindromes,super-palindromes,hard,281,361,0.778393351800554
+1366,First Unique Number,first-unique-number,medium,279,13,21.46153846153846
+1358,Find Positive Integer Solution for a Given Equation,find-positive-integer-solution-for-a-given-equation,medium,279,996,0.28012048192771083
+1337,Design Skiplist,design-skiplist,hard,279,34,8.205882352941176
+1178,Valid Palindrome III,valid-palindrome-iii,hard,278,6,46.333333333333336
+1925,Count Nice Pairs in an Array,count-nice-pairs-in-an-array,medium,277,14,19.785714285714285
+981,Delete Columns to Make Sorted,delete-columns-to-make-sorted,easy,277,1908,0.14517819706498952
+1707,Check If String Is Transformable With Substring Sort Operations,check-if-string-is-transformable-with-substring-sort-operations,hard,276,4,69.0
+1305,Number of Visible People in a Queue,number-of-visible-people-in-a-queue,hard,276,6,46.0
+1972,Rotating the Box,rotating-the-box,medium,275,17,16.176470588235293
+1746,Largest Substring Between Two Equal Characters,largest-substring-between-two-equal-characters,easy,275,15,18.333333333333332
+1070,Convert to Base -2,convert-to-base-2,medium,275,197,1.3959390862944163
+499,The Maze III,the-maze-iii,hard,275,51,5.392156862745098
+830,Largest Triangle Area,largest-triangle-area,easy,274,1187,0.23083403538331929
+2034,Minimum Absolute Difference Queries,minimum-absolute-difference-queries,medium,273,21,13.0
+1517,Restore The Array,restore-the-array,hard,273,8,34.125
+906,Walking Robot Simulation,walking-robot-simulation,easy,273,1060,0.25754716981132075
+1751,Slowest Key,slowest-key,easy,272,50,5.44
+1667,Find Kth Bit in Nth Binary String,find-kth-bit-in-nth-binary-string,medium,272,25,10.88
+1818,Maximum Score From Removing Substrings,maximum-score-from-removing-substrings,medium,271,17,15.941176470588236
+1784,Minimum Initial Energy to Finish Tasks,minimum-initial-energy-to-finish-tasks,hard,270,25,10.8
+1692,Number of Ways to Reorder Array to Get Same BST,number-of-ways-to-reorder-array-to-get-same-bst,hard,270,36,7.5
+1156,Occurrences After Bigram,occurrences-after-bigram,easy,270,261,1.0344827586206897
+1881,Closest Subsequence Sum,closest-subsequence-sum,hard,269,45,5.977777777777778
+1878,Check if Array Is Sorted and Rotated,check-if-array-is-sorted-and-rotated,easy,269,38,7.078947368421052
+1944,Truncate Sentence,truncate-sentence,easy,268,7,38.285714285714285
+1680,Count All Possible Routes,count-all-possible-routes,hard,268,14,19.142857142857142
+897,Prime Palindrome,prime-palindrome,medium,268,667,0.4017991004497751
+1800,Concatenation of Consecutive Binary Numbers,concatenation-of-consecutive-binary-numbers,medium,267,179,1.4916201117318435
+1685,Stone Game V,stone-game-v,hard,267,53,5.037735849056604
+1627,Last Moment Before All Ants Fall Out of a Plank,last-moment-before-all-ants-fall-out-of-a-plank,medium,267,158,1.6898734177215189
+1851,Maximum Number of Events That Can Be Attended II,maximum-number-of-events-that-can-be-attended-ii,hard,266,4,66.5
+1367,Maximum Height by Stacking Cuboids ,maximum-height-by-stacking-cuboids,hard,266,8,33.25
+1255,Reverse Subarray To Maximize Array Value,reverse-subarray-to-maximize-array-value,hard,266,30,8.866666666666667
+302,Smallest Rectangle Enclosing Black Pixels,smallest-rectangle-enclosing-black-pixels,hard,266,60,4.433333333333334
+1493,Frog Position After T Seconds,frog-position-after-t-seconds,hard,265,79,3.3544303797468356
+2054,The Number of the Smallest Unoccupied Chair,the-number-of-the-smallest-unoccupied-chair,medium,264,15,17.6
+1986,Largest Color Value in a Directed Graph,largest-color-value-in-a-directed-graph,hard,264,10,26.4
+1525,Queries on a Permutation With Key,queries-on-a-permutation-with-key,medium,264,451,0.5853658536585366
+527,Word Abbreviation,word-abbreviation,hard,263,181,1.4530386740331491
+1946,Minimum Absolute Sum Difference,minimum-absolute-sum-difference,medium,260,35,7.428571428571429
+1572,Subrectangle Queries,subrectangle-queries,medium,260,692,0.37572254335260113
+1270,Dinner Plate Stacks,dinner-plate-stacks,hard,260,42,6.190476190476191
+1650,Find Root of N-Ary Tree,find-root-of-n-ary-tree,medium,259,92,2.8152173913043477
+1113,Moving Stones Until Consecutive II,moving-stones-until-consecutive-ii,medium,259,449,0.576837416481069
+2000,Minimum Speed to Arrive on Time,minimum-speed-to-arrive-on-time,medium,258,60,4.3
+1977,Minimum Interval to Include Each Query,minimum-interval-to-include-each-query,hard,258,2,129.0
+1609,Find All The Lonely Nodes,find-all-the-lonely-nodes,easy,258,5,51.6
+1293,Three Consecutive Odds,three-consecutive-odds,easy,258,40,6.45
+1519,Minimum Subsequence in Non-Increasing Order,minimum-subsequence-in-non-increasing-order,easy,257,314,0.8184713375796179
+1134,Shortest Distance to Target Color,shortest-distance-to-target-color,medium,257,7,36.714285714285715
+531,Lonely Pixel I,lonely-pixel-i,medium,257,34,7.5588235294117645
+1717,Minimum Cost to Connect Two Groups of Points,minimum-cost-to-connect-two-groups-of-points,hard,256,9,28.444444444444443
+1983,Maximum Population Year,maximum-population-year,easy,253,39,6.487179487179487
+1900,Closest Dessert Cost,closest-dessert-cost,medium,253,29,8.724137931034482
+1611,Making File Names Unique,making-file-names-unique,medium,253,402,0.6293532338308457
+592,Fraction Addition and Subtraction,fraction-addition-and-subtraction,medium,253,391,0.6470588235294118
+1897,Maximize Palindrome Length From Subsequences,maximize-palindrome-length-from-subsequences,hard,252,6,42.0
+1257,Rank Transform of a Matrix,rank-transform-of-a-matrix,hard,250,7,35.714285714285715
+749,Shortest Completing Word,shortest-completing-word,easy,250,758,0.32981530343007914
+1660,Thousand Separator,thousand-separator,easy,249,8,31.125
+1629,Minimum Possible Integer After at Most K Adjacent Swaps On Digits,minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits,hard,249,14,17.785714285714285
+489,Kth Smallest Instructions,kth-smallest-instructions,hard,249,3,83.0
+379,Design Phone Directory,design-phone-directory,medium,248,348,0.7126436781609196
+1927,Maximum Ascending Subarray Sum,maximum-ascending-subarray-sum,easy,247,9,27.444444444444443
+1691,Minimum Number of Days to Disconnect Island,minimum-number-of-days-to-disconnect-island,hard,247,104,2.375
+2078,Maximum Compatibility Score Sum,maximum-compatibility-score-sum,medium,246,7,35.142857142857146
+1764,Maximum Repeating Substring,maximum-repeating-substring,easy,245,84,2.9166666666666665
+1003,Minimum Area Rectangle II,minimum-area-rectangle-ii,medium,245,345,0.7101449275362319
+522,Longest Uncommon Subsequence II,longest-uncommon-subsequence-ii,medium,245,708,0.346045197740113
+1880,Largest Merge Of Two Strings,largest-merge-of-two-strings,medium,244,40,6.1
+1630,Count Odd Numbers in an Interval Range,count-odd-numbers-in-an-interval-range,easy,244,26,9.384615384615385
+1379,Reconstruct a 2-Row Binary Matrix,reconstruct-a-2-row-binary-matrix,medium,244,19,12.842105263157896
+805,Escape The Ghosts,escape-the-ghosts,medium,244,384,0.6354166666666666
+1967,Longest Substring Of All Vowels in Order,longest-substring-of-all-vowels-in-order,medium,243,9,27.0
+809,Preimage Size of Factorial Zeroes Function,preimage-size-of-factorial-zeroes-function,hard,243,65,3.7384615384615385
+734,Sentence Similarity,sentence-similarity,easy,242,381,0.6351706036745407
+1647,Can Convert String in K Moves,can-convert-string-in-k-moves,medium,241,184,1.309782608695652
+666,Path Sum IV,path-sum-iv,medium,241,331,0.7280966767371602
+1725,Number of Sets of K Non-Overlapping Line Segments,number-of-sets-of-k-non-overlapping-line-segments,medium,240,27,8.88888888888889
+2048,Build Array from Permutation,build-array-from-permutation,easy,239,36,6.638888888888889
+1988,Minimize Maximum Pair Sum in Array,minimize-maximum-pair-sum-in-array,medium,239,58,4.120689655172414
+1844,Maximum Number of Balls in a Box,maximum-number-of-balls-in-a-box,easy,239,64,3.734375
+1429,Verbal Arithmetic Puzzle,verbal-arithmetic-puzzle,hard,239,67,3.5671641791044775
+466,Count The Repetitions,count-the-repetitions,hard,239,222,1.0765765765765767
+422,Valid Word Square,valid-word-square,easy,239,142,1.6830985915492958
+1873,Longest Nice Substring,longest-nice-substring,easy,238,234,1.017094017094017
+1803,Average Waiting Time,average-waiting-time,medium,238,28,8.5
+248,Strobogrammatic Number III,strobogrammatic-number-iii,hard,238,163,1.460122699386503
+1804,Maximum Binary String After Change,maximum-binary-string-after-change,medium,236,29,8.137931034482758
+1202,Palindrome Removal,palindrome-removal,hard,236,9,26.22222222222222
+913,Random Flip Matrix,random-flip-matrix,medium,235,81,2.9012345679012346
+1939,Queries on Number of Points Inside a Circle,queries-on-number-of-points-inside-a-circle,medium,234,30,7.8
+1104,Coloring A Border,coloring-a-border,medium,234,421,0.5558194774346793
+1920,Determine Color of a Chessboard Square,determine-color-of-a-chessboard-square,easy,233,9,25.88888888888889
+1234,Number of Paths with Max Score,number-of-paths-with-max-score,hard,232,14,16.571428571428573
+1190,Smallest Common Region,smallest-common-region,medium,232,23,10.08695652173913
+2086,Count Number of Special Subsequences,count-number-of-special-subsequences,hard,231,3,77.0
+1957,Closest Room,closest-room,hard,231,12,19.25
+756,Pour Water,pour-water,medium,231,529,0.43667296786389415
+2021,Remove All Occurrences of a Substring,remove-all-occurrences-of-a-substring,medium,230,20,11.5
+1102,Check If a Number Is Majority Element in a Sorted Array,check-if-a-number-is-majority-element-in-a-sorted-array,easy,230,28,8.214285714285714
+1490,Generate a String With Characters That Have Odd Counts,generate-a-string-with-characters-that-have-odd-counts,easy,229,854,0.2681498829039813
+1978,Minimum Adjacent Swaps to Reach the Kth Smallest Number,minimum-adjacent-swaps-to-reach-the-kth-smallest-number,medium,227,34,6.676470588235294
+1906,Maximize Score After N Operations,maximize-score-after-n-operations,hard,227,16,14.1875
+2040,Minimum Cost to Reach Destination in Time,minimum-cost-to-reach-destination-in-time,hard,226,4,56.5
+1885,Count Number of Homogenous Substrings,count-number-of-homogenous-substrings,medium,226,25,9.04
+1169,Largest Values From Labels,largest-values-from-labels,medium,226,495,0.45656565656565656
+1004,Least Operators to Express Number,least-operators-to-express-number,hard,226,57,3.9649122807017543
+834,Ambiguous Coordinates,ambiguous-coordinates,medium,226,542,0.41697416974169743
+1208,Maximum Nesting Depth of Two Valid Parentheses Strings,maximum-nesting-depth-of-two-valid-parentheses-strings,medium,225,1003,0.22432701894317048
+1843,Number Of Rectangles That Can Form The Largest Square,number-of-rectangles-that-can-form-the-largest-square,easy,224,28,8.0
+1696,Strange Printer II,strange-printer-ii,hard,224,7,32.0
+483,Smallest Good Base,smallest-good-base,hard,224,384,0.5833333333333334
+1733,Maximum Number of Visible Points,maximum-number-of-visible-points,hard,223,297,0.7508417508417509
+1645,Find a Value of a Mysterious Function Closest to Target,find-a-value-of-a-mysterious-function-closest-to-target,hard,223,8,27.875
+1131,Count Substrings with Only One Distinct Letter,count-substrings-with-only-one-distinct-letter,easy,221,38,5.815789473684211
+1066,Fixed Point,fixed-point,easy,220,51,4.313725490196078
+1710,Find Servers That Handled Most Number of Requests,find-servers-that-handled-most-number-of-requests,hard,218,9,24.22222222222222
+2049,Eliminate Maximum Number of Monsters,eliminate-maximum-number-of-monsters,medium,217,43,5.046511627906977
+2010,Check if Word Equals Summation of Two Words,check-if-word-equals-summation-of-two-words,easy,217,15,14.466666666666667
+826,Soup Servings,soup-servings,medium,217,657,0.3302891933028919
+1976,Splitting a String Into Descending Consecutive Values,splitting-a-string-into-descending-consecutive-values,medium,216,68,3.176470588235294
+2038,Nearest Exit from Entrance in Maze,nearest-exit-from-entrance-in-maze,medium,215,13,16.53846153846154
+1915,Check if One String Swap Can Make Strings Equal,check-if-one-string-swap-can-make-strings-equal,easy,214,9,23.77777777777778
+553,Optimal Division,optimal-division,medium,214,1270,0.16850393700787403
+1769,Get Maximum in Generated Array,get-maximum-in-generated-array,easy,213,312,0.6826923076923077
+1665,Diameter of N-Ary Tree,diameter-of-n-ary-tree,medium,213,3,71.0
+1513,Find All Good Strings,find-all-good-strings,hard,213,91,2.340659340659341
+918,Reachable Nodes In Subdivided Graph,reachable-nodes-in-subdivided-graph,hard,213,166,1.283132530120482
+408,Valid Word Abbreviation,valid-word-abbreviation,easy,213,909,0.23432343234323433
+1618,Delete N Nodes After M Nodes of a Linked List,delete-n-nodes-after-m-nodes-of-a-linked-list,easy,212,6,35.333333333333336
+1326,Sum of Floored Pairs,sum-of-floored-pairs,hard,212,20,10.6
+2015,Determine Whether Matrix Can Be Obtained By Rotation,determine-whether-matrix-can-be-obtained-by-rotation,easy,211,26,8.115384615384615
+1963,Find XOR Sum of All Pairs Bitwise AND,find-xor-sum-of-all-pairs-bitwise-and,hard,211,25,8.44
+1961,Maximum Ice Cream Bars,maximum-ice-cream-bars,medium,211,88,2.397727272727273
+1247,Decrease Elements To Make Array Zigzag,decrease-elements-to-make-array-zigzag,medium,211,131,1.6106870229007633
+1108,Analyze User Website Visit Pattern,analyze-user-website-visit-pattern,medium,211,1931,0.10926980838943552
+1089,Remove Vowels from a String,remove-vowels-from-a-string,easy,211,95,2.221052631578947
+2047,Find a Peak Element II,find-a-peak-element-ii,medium,210,21,10.0
+2016,Reduction Operations to Make the Array Elements Equal,reduction-operations-to-make-the-array-elements-equal,medium,210,11,19.09090909090909
+1987,Substrings of Size Three with Distinct Characters,substrings-of-size-three-with-distinct-characters,easy,210,10,21.0
+1740,Count Subtrees With Max Distance Between Cities,count-subtrees-with-max-distance-between-cities,hard,210,24,8.75
+1950,Sign of the Product of an Array,sign-of-the-product-of-an-array,easy,209,30,6.966666666666667
+1940,Maximum XOR for Each Query,maximum-xor-for-each-query,medium,209,12,17.416666666666668
+870,Magic Squares In Grid,magic-squares-in-grid,medium,209,1390,0.15035971223021583
+1954,Replace All Digits with Characters,replace-all-digits-with-characters,easy,208,26,8.0
+2039,Sum Game,sum-game,medium,207,25,8.28
+1486,Find the Distance Value Between Two Arrays,find-the-distance-value-between-two-arrays,easy,207,875,0.23657142857142857
+1500,Count Largest Group,count-largest-group,easy,205,555,0.36936936936936937
+1200,Remove Interval,remove-interval,medium,205,18,11.38888888888889
+1909,Buildings With an Ocean View,buildings-with-an-ocean-view,medium,204,35,5.828571428571428
+1732,Minimum One Bit Operations to Make Integers Zero,minimum-one-bit-operations-to-make-integers-zero,hard,204,145,1.4068965517241379
+1687,The Most Similar Path in a Graph,the-most-similar-path-in-a-graph,hard,204,96,2.125
+1164,Missing Number In Arithmetic Progression,missing-number-in-arithmetic-progression,easy,204,25,8.16
+65,Valid Number,valid-number,hard,204,416,0.49038461538461536
+1994,Minimum Number of Swaps to Make the Binary String Alternating,minimum-number-of-swaps-to-make-the-binary-string-alternating,medium,203,21,9.666666666666666
+760,Bold Words in String,bold-words-in-string,medium,203,106,1.9150943396226414
+1933,Number of Different Integers in a String,number-of-different-integers-in-a-string,easy,202,42,4.809523809523809
+940,Fruit Into Baskets,fruit-into-baskets,medium,202,9,22.444444444444443
+2061,Painting a Grid With Three Different Colors,painting-a-grid-with-three-different-colors,hard,201,9,22.333333333333332
+2020,Remove One Element to Make the Array Strictly Increasing,remove-one-element-to-make-the-array-strictly-increasing,easy,200,131,1.5267175572519085
+1223,Graph Connectivity With Threshold,graph-connectivity-with-threshold,hard,200,20,10.0
+1085,The Earliest Moment When Everyone Become Friends,the-earliest-moment-when-everyone-become-friends,medium,200,7,28.571428571428573
+1728,Fancy Sequence,fancy-sequence,hard,199,68,2.926470588235294
+1913,Make the XOR of All Segments Equal to Zero,make-the-xor-of-all-segments-equal-to-zero,hard,198,8,24.75
+1907,Count Pairs With XOR in a Range,count-pairs-with-xor-in-a-range,hard,197,8,24.625
+1780,Lowest Common Ancestor of a Binary Tree II,lowest-common-ancestor-of-a-binary-tree-ii,medium,197,8,24.625
+1945,Finding the Users Active Minutes,finding-the-users-active-minutes,medium,196,73,2.684931506849315
+1098,Largest Unique Number,largest-unique-number,easy,196,15,13.066666666666666
+1065,Binary String With Substrings Representing 1 To N,binary-string-with-substrings-representing-1-to-n,medium,196,419,0.4677804295942721
+1968,Maximum Building Height,maximum-building-height,hard,195,8,24.375
+1890,Sum of Beauty of All Substrings,sum-of-beauty-of-all-substrings,medium,195,70,2.7857142857142856
+656,Coin Path,coin-path,hard,195,92,2.119565217391304
+335,Self Crossing,self-crossing,hard,195,423,0.46099290780141844
+1272,Invalid Transactions,invalid-transactions,medium,194,1113,0.17430368373764601
+1233,Number of Ships in a Rectangle,number-of-ships-in-a-rectangle,hard,193,29,6.655172413793103
+2084,Maximum Number of Weeks for Which You Can Work,maximum-number-of-weeks-for-which-you-can-work,medium,192,67,2.8656716417910446
+1440,Convert Integer to the Sum of Two No-Zero Integers,convert-integer-to-the-sum-of-two-no-zero-integers,easy,192,186,1.032258064516129
+1723,Maximum Number of Achievable Transfer Requests,maximum-number-of-achievable-transfer-requests,hard,191,26,7.346153846153846
+1562,People Whose List of Favorite Companies Is Not a Subset of Another List,people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list,medium,191,174,1.0977011494252873
+2026,Merge Triplets to Form Target Triplet,merge-triplets-to-form-target-triplet,medium,190,17,11.176470588235293
+1947,Number of Different Subsequences GCDs,number-of-different-subsequences-gcds,hard,190,33,5.757575757575758
+711,Number of Distinct Islands II,number-of-distinct-islands-ii,hard,190,202,0.9405940594059405
+2032,Largest Odd Number in String,largest-odd-number-in-string,easy,187,16,11.6875
+356,Line Reflection,line-reflection,medium,187,429,0.4358974358974359
+2002,Stone Game VIII,stone-game-viii,hard,185,8,23.125
+1703,Put Boxes Into the Warehouse I,put-boxes-into-the-warehouse-i,medium,185,15,12.333333333333334
+1501,Circle and Rectangle Overlapping,circle-and-rectangle-overlapping,medium,184,49,3.7551020408163267
+1289,Day of the Week,day-of-the-week,easy,184,1634,0.11260709914320685
+672,Bulb Switcher II,bulb-switcher-ii,medium,184,1031,0.1784675072744908
+1860,Find Kth Largest XOR Coordinate Value,find-kth-largest-xor-coordinate-value,medium,183,35,5.228571428571429
+1210,Mean of Array After Removing Some Elements,mean-of-array-after-removing-some-elements,easy,183,52,3.519230769230769
+1934,Evaluate the Bracket Pairs of a String,evaluate-the-bracket-pairs-of-a-string,medium,182,19,9.578947368421053
+1279,Prime Arrangements,prime-arrangements,easy,182,306,0.5947712418300654
+1624,Clone Binary Tree With Random Pointer,clone-binary-tree-with-random-pointer,medium,181,34,5.323529411764706
+1024,Triples with Bitwise AND Equal To Zero,triples-with-bitwise-and-equal-to-zero,hard,179,167,1.0718562874251496
+1747,Lexicographically Smallest String After Applying Operations,lexicographically-smallest-string-after-applying-operations,medium,178,202,0.8811881188118812
+1260,Day of the Year,day-of-the-year,easy,178,245,0.726530612244898
+1125,Design File System,design-file-system,medium,178,18,9.88888888888889
+1359,Circular Permutation in Binary Representation,circular-permutation-in-binary-representation,medium,177,141,1.2553191489361701
+2018,Minimum Space Wasted From Packaging,minimum-space-wasted-from-packaging,hard,176,23,7.6521739130434785
+1699,Number of Ways Where Square of Number Is Equal to Product of Two Numbers,number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers,medium,176,39,4.512820512820513
+1010,Powerful Integers,powerful-integers,medium,176,56,3.142857142857143
+1965,Sum of Digits in Base K,sum-of-digits-in-base-k,easy,175,16,10.9375
+1859,Change Minimum Characters to Satisfy One of Three Conditions,change-minimum-characters-to-satisfy-one-of-three-conditions,medium,175,209,0.8373205741626795
+1745,Find Nearest Right Node in Binary Tree,find-nearest-right-node-in-binary-tree,medium,174,3,58.0
+1148,Adding Two Negabinary Numbers,adding-two-negabinary-numbers,medium,174,77,2.25974025974026
+1955,Seat Reservation Manager,seat-reservation-manager,medium,173,15,11.533333333333333
+1714,Rearrange Spaces Between Words,rearrange-spaces-between-words,easy,173,170,1.0176470588235293
+1115,Valid Boomerang,valid-boomerang,easy,173,309,0.5598705501618123
+2055,Describe the Painting,describe-the-painting,medium,172,10,17.2
+2051,Longest Common Subpath,longest-common-subpath,hard,172,18,9.555555555555555
+1634,Clone N-ary Tree,clone-n-ary-tree,medium,172,12,14.333333333333334
+1999,Longer Contiguous Segments of Ones than Zeros,longer-contiguous-segments-of-ones-than-zeros,easy,171,6,28.5
+1577,Probability of a Two Boxes Having The Same Number of Distinct Balls,probability-of-a-two-boxes-having-the-same-number-of-distinct-balls,hard,171,127,1.3464566929133859
+1543,Simplified Fractions,simplified-fractions,medium,171,30,5.7
+1372,Check If It Is a Good Array,check-if-it-is-a-good-array,hard,171,232,0.7370689655172413
+2050,Count Good Numbers,count-good-numbers,medium,169,151,1.119205298013245
+1875,Tree of Coprimes,tree-of-coprimes,hard,169,14,12.071428571428571
+1789,Delivering Boxes from Storage to Ports,delivering-boxes-from-storage-to-ports,hard,169,12,14.083333333333334
+1401,Number of Burgers with No Waste of Ingredients,number-of-burgers-with-no-waste-of-ingredients,medium,169,169,1.0
+1924,Maximum Number of Groups Getting Fresh Donuts,maximum-number-of-groups-getting-fresh-donuts,hard,168,9,18.666666666666668
+1850,Minimum Length of String After Deleting Similar Ends,minimum-length-of-string-after-deleting-similar-ends,medium,168,13,12.923076923076923
+1455,"Filter Restaurants by Vegan-Friendly, Price and Distance",filter-restaurants-by-vegan-friendly-price-and-distance,medium,168,147,1.1428571428571428
+1322,Minimum Moves to Reach Target with Rotations,minimum-moves-to-reach-target-with-rotations,hard,167,51,3.2745098039215685
+1201,Delete Tree Nodes,delete-tree-nodes,medium,166,52,3.1923076923076925
+1075,Index Pairs of a String,index-pairs-of-a-string,easy,165,62,2.661290322580645
+798,Transform to Chessboard,transform-to-chessboard,hard,165,162,1.0185185185185186
+1861,Building Boxes,building-boxes,hard,164,27,6.074074074074074
+750,Contain Virus,contain-virus,hard,164,330,0.49696969696969695
+1436,Get Watched Videos by Your Friends,get-watched-videos-by-your-friends,medium,163,253,0.6442687747035574
+1744,Number of Ways to Form a Target String Given a Dictionary,number-of-ways-to-form-a-target-string-given-a-dictionary,hard,162,10,16.2
+1995,Finding Pairs With a Certain Sum,finding-pairs-with-a-certain-sum,medium,161,57,2.824561403508772
+1778,Maximize Grid Happiness,maximize-grid-happiness,hard,161,42,3.8333333333333335
+1137,Height Checker,height-checker,easy,159,22,7.2272727272727275
+457,Circular Array Loop,circular-array-loop,medium,158,139,1.1366906474820144
+1768,Design an Expression Tree With Evaluate Function,design-an-expression-tree-with-evaluate-function,medium,157,31,5.064516129032258
+1313,Count Ways to Build Rooms in an Ant Colony,count-ways-to-build-rooms-in-an-ant-colony,hard,157,23,6.826086956521739
+1283,Reformat Date,reformat-date,easy,156,238,0.6554621848739496
+1191,Synonymous Sentences,synonymous-sentences,medium,155,55,2.8181818181818183
+2042,Maximum Product Difference Between Two Pairs,maximum-product-difference-between-two-pairs,easy,154,5,30.8
+2025,Redistribute Characters to Make All Strings Equal,redistribute-characters-to-make-all-strings-equal,easy,154,22,7.0
+2068,Maximum Genetic Difference Query,maximum-genetic-difference-query,hard,152,8,19.0
+2058,Concatenation of Array,concatenation-of-array,easy,152,66,2.303030303030303
+2011,Maximum Value after Insertion,maximum-value-after-insertion,medium,152,32,4.75
+1816,Lowest Common Ancestor of a Binary Tree IV,lowest-common-ancestor-of-a-binary-tree-iv,medium,152,4,38.0
+1682,Most Visited Sector in  a Circular Track,most-visited-sector-in-a-circular-track,easy,152,341,0.44574780058651026
+634,Find the Derangement of An Array,find-the-derangement-of-an-array,medium,152,126,1.2063492063492063
+411,Minimum Unique Word Abbreviation,minimum-unique-word-abbreviation,hard,151,133,1.1353383458646618
+1058,Lexicographically Smallest Equivalent String,lexicographically-smallest-equivalent-string,medium,150,8,18.75
+1891,Count Pairs Of Nodes,count-pairs-of-nodes,hard,149,110,1.3545454545454545
+1758,Distribute Repeating Integers,distribute-repeating-integers,hard,149,13,11.461538461538462
+1151,Stepping Numbers,stepping-numbers,medium,149,16,9.3125
+1874,Form Array by Concatenating Subarrays of Another Array,form-array-by-concatenating-subarrays-of-another-array,medium,146,19,7.684210526315789
+1311,Largest Magic Square,largest-magic-square,medium,146,164,0.8902439024390244
+1812,Reformat Phone Number,reformat-phone-number,easy,145,124,1.1693548387096775
+550,Shortest Path to Get Food,shortest-path-to-get-food,medium,145,7,20.714285714285715
+288,Unique Word Abbreviation,unique-word-abbreviation,medium,145,1535,0.09446254071661238
+1533,Display Table of Food Orders in a Restaurant,display-table-of-food-orders-in-a-restaurant,medium,144,277,0.51985559566787
+1166,Toss Strange Coins,toss-strange-coins,medium,143,9,15.88888888888889
+1953,Finding MK Average,finding-mk-average,hard,142,74,1.9189189189189189
+1858,Latest Time by Replacing Hidden Digits,latest-time-by-replacing-hidden-digits,easy,142,84,1.6904761904761905
+1271,Web Crawler,web-crawler,medium,142,169,0.8402366863905325
+1424,Maximum Candies You Can Get from Boxes,maximum-candies-you-can-get-from-boxes,hard,141,104,1.3557692307692308
+1061,Number of Valid Subarrays,number-of-valid-subarrays,hard,141,8,17.625
+2006,Find the Student that Will Replace the Chalk,find-the-student-that-will-replace-the-chalk,medium,140,22,6.363636363636363
+1935,Minimum Number of Operations to Reinitialize a Permutation,minimum-number-of-operations-to-reinitialize-a-permutation,medium,140,87,1.6091954022988506
+1722,Throne Inheritance,throne-inheritance,medium,140,203,0.6896551724137931
+2013,Minimum Skips to Arrive at Meeting On Time,minimum-skips-to-arrive-at-meeting-on-time,hard,139,35,3.9714285714285715
+2066,Add Minimum Number of Rungs,add-minimum-number-of-rungs,medium,138,11,12.545454545454545
+1923,Sentence Similarity III,sentence-similarity-iii,medium,138,33,4.181818181818182
+481,Magical String,magical-string,medium,138,807,0.17100371747211895
+293,Flip Game,flip-game,easy,138,338,0.40828402366863903
+1048,Clumsy Factorial,clumsy-factorial,medium,136,188,0.723404255319149
+2005,Check if All the Integers in a Range Are Covered,check-if-all-the-integers-in-a-range-are-covered,easy,134,27,4.962962962962963
+1799,Minimum Incompatibility,minimum-incompatibility,hard,134,79,1.6962025316455696
+1284,Four Divisors,four-divisors,medium,134,130,1.0307692307692307
+1276,Closest Divisors,closest-divisors,medium,134,72,1.8611111111111112
+2028,The Earliest and Latest Rounds Where Players Compete,the-earliest-and-latest-rounds-where-players-compete,hard,133,11,12.090909090909092
+1069,Confusing Number,confusing-number,easy,133,86,1.5465116279069768
+1904,Second Largest Digit in a String,second-largest-digit-in-a-string,easy,131,52,2.519230769230769
+1888,Find Nearest Point That Has the Same X or Y Coordinate,find-nearest-point-that-has-the-same-x-or-y-coordinate,easy,131,26,5.038461538461538
+1638,Best Position for a Service Centre,best-position-for-a-service-centre,hard,131,169,0.7751479289940828
+1916,Find Center of Star Graph,find-center-of-star-graph,easy,129,19,6.7894736842105265
+1775,Design an Ordered Stream,design-an-ordered-stream,easy,129,1061,0.12158341187558906
+1090,Armstrong Number,armstrong-number,easy,129,15,8.6
+945,Snakes and Ladders,snakes-and-ladders,medium,129,10,12.9
+1883,Find Distance in a Binary Tree,find-distance-in-a-binary-tree,medium,128,7,18.285714285714285
+1167,Minimum Time to Build Blocks,minimum-time-to-build-blocks,hard,126,15,8.4
+506,Relative Ranks,relative-ranks,easy,124,6,20.666666666666668
+2033,The Number of Full Rounds You Have Played,the-number-of-full-rounds-you-have-played,medium,123,182,0.6758241758241759
+1103,Moving Stones Until Consecutive,moving-stones-until-consecutive,medium,123,548,0.22445255474452555
+2043,Cyclically Rotating a Grid,cyclically-rotating-a-grid,medium,122,199,0.6130653266331658
+1244,Distinct Echo Substrings,distinct-echo-substrings,hard,122,146,0.8356164383561644
+1141,How Many Apples Can You Put into the Basket,how-many-apples-can-you-put-into-the-basket,easy,121,12,10.083333333333334
+1705,Count Unhappy Friends,count-unhappy-friends,medium,120,455,0.26373626373626374
+1274,Number of Days Between Two Dates,number-of-days-between-two-dates,easy,120,598,0.20066889632107024
+660,Remove 9,remove-9,hard,119,151,0.7880794701986755
+1529,Max Difference You Can Get From Changing an Integer,max-difference-you-can-get-from-changing-an-integer,medium,117,159,0.7358490566037735
+1295,Minimum Garden Perimeter to Collect Enough Apples,minimum-garden-perimeter-to-collect-enough-apples,medium,117,37,3.1621621621621623
+773,Logical OR of Two Binary Grids Represented as Quad-Trees,logical-or-of-two-binary-grids-represented-as-quad-trees,medium,117,376,0.31117021276595747
+1956,Maximum Element After Decreasing and Rearranging,maximum-element-after-decreasing-and-rearranging,medium,116,29,4.0
+631,Design Excel Sum Formula,design-excel-sum-formula,hard,116,126,0.9206349206349206
+1936,Maximize Number of Nice Divisors,maximize-number-of-nice-divisors,hard,113,120,0.9416666666666667
+1053,Minimize Rounding Error to Meet Target,minimize-rounding-error-to-meet-target,medium,113,105,1.0761904761904761
+591,Tag Validator,tag-validator,hard,113,501,0.22554890219560877
+1928,Number of Orders in the Backlog,number-of-orders-in-the-backlog,medium,112,142,0.7887323943661971
+1836,Count Ways to Make Array With Product,count-ways-to-make-array-with-product,hard,111,23,4.826086956521739
+1796,Correct a Binary Tree,correct-a-binary-tree,medium,110,16,6.875
+1432,Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree,check-if-a-string-is-a-valid-sequence-from-root-to-leaves-path-in-a-binary-tree,medium,110,9,12.222222222222221
+551,Student Attendance Record I,student-attendance-record-i,easy,110,10,11.0
+1910,Check if Binary String Has at Most One Segment of Ones,check-if-binary-string-has-at-most-one-segment-of-ones,easy,109,316,0.3449367088607595
+1719,Put Boxes Into the Warehouse II,put-boxes-into-the-warehouse-ii,medium,109,1,109.0
+1526,HTML Entity Parser,html-entity-parser,medium,109,235,0.46382978723404256
+1264,Maximum Number of Words You Can Type,maximum-number-of-words-you-can-type,easy,109,7,15.571428571428571
+625,Minimum Factorization,minimum-factorization,medium,109,96,1.1354166666666667
+2023,Design Movie Rental System,design-movie-rental-system,hard,108,24,4.5
+1975,Minimum Distance to the Target Element,minimum-distance-to-the-target-element,easy,108,24,4.5
+2060,Merge BSTs to Create Single BST,merge-bsts-to-create-single-bst,hard,107,12,8.916666666666666
+1911,Minimum Elements to Add to Form a Given Sum,minimum-elements-to-add-to-form-a-given-sum,medium,107,114,0.9385964912280702
+1727,Cat and Mouse II,cat-and-mouse-ii,hard,107,20,5.35
+479,Largest Palindrome Product,largest-palindrome-product,hard,106,1397,0.07587687902648532
+1905,Design Authentication Manager,design-authentication-manager,medium,103,20,5.15
+1834,Minimum Number of People to Teach,minimum-number-of-people-to-teach,medium,103,258,0.3992248062015504
+2008,Minimum Cost to Change the Final Value of Expression,minimum-cost-to-change-the-final-value-of-expression,hard,102,31,3.2903225806451615
+1729,Binary Search Tree Iterator II,binary-search-tree-iterator-ii,medium,102,14,7.285714285714286
+1345,Perform String Shifts,perform-string-shifts,easy,102,1,102.0
+1893,Maximum Subarray Sum After One Operation,maximum-subarray-sum-after-one-operation,medium,101,0,1000
+1742,Widest Vertical Area Between Two Points Containing No Points,widest-vertical-area-between-two-points-containing-no-points,medium,100,347,0.2881844380403458
+1709,Alert Using Same Key-Card Three or More Times in a One Hour Period,alert-using-same-key-card-three-or-more-times-in-a-one-hour-period,medium,100,175,0.5714285714285714
+858,Masking Personal Information,masking-personal-information,medium,99,371,0.2668463611859838
+1941,Minimum Number of Operations to Make String Sorted,minimum-number-of-operations-to-make-string-sorted,hard,98,78,1.2564102564102564
+1736,Build Binary Expression Tree From Infix Expression,build-binary-expression-tree-from-infix-expression,hard,98,20,4.9
+1563,Maximum Number of Darts Inside of a Circular Dartboard,maximum-number-of-darts-inside-of-a-circular-dartboard,hard,98,225,0.43555555555555553
+2079,Delete Duplicate Folders in System,delete-duplicate-folders-in-system,hard,97,29,3.3448275862068964
+2077,Largest Number After Mutating Substring,largest-number-after-mutating-substring,medium,97,117,0.8290598290598291
+781,Basic Calculator IV,basic-calculator-iv,hard,95,949,0.10010537407797682
+1990,Get Biggest Three Rhombus Sums in a Grid,get-biggest-three-rhombus-sums-in-a-grid,medium,94,214,0.4392523364485981
+828,Chalkboard XOR Game,chalkboard-xor-game,hard,94,217,0.43317972350230416
+1971,Incremental Memory Leak,incremental-memory-leak,medium,93,45,2.066666666666667
+1887,Minimum Degree of a Connected Trio in a Graph,minimum-degree-of-a-connected-trio-in-a-graph,hard,93,140,0.6642857142857143
+1280,Diet Plan Performance,diet-plan-performance,easy,93,223,0.4170403587443946
+1175,Array Transformation,array-transformation,easy,92,43,2.13953488372093
+842,Card Flipping Game,card-flipping-game,medium,91,561,0.1622103386809269
+495,Teemo Attacking,teemo-attacking,easy,88,9,9.777777777777779
+1820,Number Of Ways To Reconstruct A Tree,number-of-ways-to-reconstruct-a-tree,hard,87,64,1.359375
+1139,Previous Permutation With One Swap,previous-permutation-with-one-swap,medium,87,11,7.909090909090909
+2076,Sum of Digits of String After Convert,sum-of-digits-of-string-after-convert,easy,86,13,6.615384615384615
+1459,Apply Discount Every n Orders,apply-discount-every-n-orders,medium,86,138,0.6231884057971014
+1213,Handshakes That Don't Cross,handshakes-that-dont-cross,hard,86,6,14.333333333333334
+1152,Maximum Number of Ones,maximum-number-of-ones,hard,86,9,9.555555555555555
+2053,Check if All Characters Have Equal Number of Occurrences,check-if-all-characters-have-equal-number-of-occurrences,easy,84,2,42.0
+1454,Remove Palindromic Subsequences,remove-palindromic-subsequences,easy,83,158,0.5253164556962026
+1903,Design Most Recently Used Queue,design-most-recently-used-queue,medium,80,5,16.0
+1697,Strings Differ by One Character,strings-differ-by-one-character,medium,80,2,40.0
+2037,Count Square Sum Triples,count-square-sum-triples,easy,79,13,6.076923076923077
+2083,Three Divisors,three-divisors,easy,76,9,8.444444444444445
+1982,Remove Duplicates From an Unsorted Linked List,remove-duplicates-from-an-unsorted-linked-list,medium,76,4,19.0
+1931,Shortest Path in a Hidden Grid,shortest-path-in-a-hidden-grid,medium,76,36,2.111111111111111
+469,Convex Polygon,convex-polygon,medium,76,203,0.37438423645320196
+1118,Divide Array Into Increasing Sequences,divide-array-into-increasing-sequences,hard,75,22,3.409090909090909
+1750,Check If Two Expression Trees are Equivalent,check-if-two-expression-trees-are-equivalent,medium,73,15,4.866666666666666
+818,Similar RGB Color,similar-rgb-color,easy,73,453,0.16114790286975716
+1949,Implement Trie II (Prefix Tree),implement-trie-ii-prefix-tree,medium,72,6,12.0
+1391,Counting Elements,counting-elements,easy,69,12,5.75
+1872,Can You Eat Your Favorite Candy on Your Favorite Day?,can-you-eat-your-favorite-candy-on-your-favorite-day,medium,68,220,0.3090909090909091
+1082,Sum of Digits in the Minimum Number,sum-of-digits-in-the-minimum-number,easy,63,126,0.5
+1822,Longest Palindromic Subsequence II,longest-palindromic-subsequence-ii,medium,62,16,3.875
+1838,Number of Distinct Substrings in a String,number-of-distinct-substrings-in-a-string,medium,61,15,4.066666666666666
+1012,Equal Rational Numbers,equal-rational-numbers,hard,61,166,0.3674698795180723
+555,Split Concatenated Strings,split-concatenated-strings,medium,61,219,0.2785388127853881
+533,Lonely Pixel II,lonely-pixel-ii,medium,61,635,0.09606299212598425
+1672,Find the Index of the Large Integer,find-the-index-of-the-large-integer,medium,60,8,7.5
+1132,Before and After Puzzle,before-and-after-puzzle,medium,60,131,0.4580152671755725
+1470,Tweet Counts Per Frequency,tweet-counts-per-frequency,medium,59,107,0.5514018691588785
+1384,Maximum Font to Fit a Sentence in a Screen,maximum-font-to-fit-a-sentence-in-a-screen,medium,57,9,6.333333333333333
+1721,Maximum Profit of Operating a Centennial Wheel,maximum-profit-of-operating-a-centennial-wheel,medium,56,194,0.28865979381443296
+1199,Hexspeak,hexspeak,easy,52,92,0.5652173913043478
+1726,Coordinate With Maximum Network Quality,coordinate-with-maximum-network-quality,medium,51,164,0.31097560975609756
+1068,Digit Count in Range,digit-count-in-range,hard,51,13,3.923076923076923
+2069,Kth Smallest Subarray Sum,kth-smallest-subarray-sum,medium,50,2,25.0
+1681,Guess the Majority in a Hidden Array,guess-the-majority-in-a-hidden-array,medium,50,20,2.5
+1774,Add Two Polynomials Represented as Linked Lists,add-two-polynomials-represented-as-linked-lists,medium,49,2,24.5
+2045,Cutting Ribbons,cutting-ribbons,medium,45,4,11.25
+2009,Longest Word With All Prefixes,longest-word-with-all-prefixes,medium,45,2,22.5
+1189,Encode Number,encode-number,medium,45,166,0.2710843373493976
+655,Print Binary Tree,print-binary-tree,medium,44,47,0.9361702127659575
+1847,Largest Subarray Length K,largest-subarray-length-k,easy,43,56,0.7678571428571429
+2029,Minimize Product Sum of Two Arrays,minimize-product-sum-of-two-arrays,medium,41,4,10.25
+1969,Maximum Number of Accepted Invitations,maximum-number-of-accepted-invitations,medium,40,12,3.3333333333333335
+2003,Distinct Numbers in Each Subarray,distinct-numbers-in-each-subarray,medium,39,2,19.5
+2019,Product of Two Run-Length Encoded Arrays,product-of-two-run-length-encoded-arrays,medium,37,6,6.166666666666667
+1810,Change the Root of a Binary Tree,change-the-root-of-a-binary-tree,medium,37,93,0.3978494623655914
+2036,Count Pairs in Two Arrays,count-pairs-in-two-arrays,medium,36,3,12.0
+1959,Minimum Path Cost in a Hidden Grid,minimum-path-cost-in-a-hidden-grid,medium,35,14,2.5
+2071,Longest Common Subsequence Between Sorted Arrays,longest-common-subsequence-between-sorted-arrays,medium,34,1,34.0
+2052,Depth of BST Given Insertion Order,depth-of-bst-given-insertion-order,medium,33,1,33.0
+1828,Count Ways to Distribute Candies,count-ways-to-distribute-candies,hard,32,5,6.4
+1980,Faulty Sensor,faulty-sensor,easy,29,18,1.6111111111111112
+2072,Maximum of Minimum Values in All Subarrays,maximum-of-minimum-values-in-all-subarrays,medium,28,2,14.0
+1865,Checking Existence of Edge Length Limited Paths II,checking-existence-of-edge-length-limited-paths-ii,hard,28,4,7.0
+1640,Design a File Sharing System,design-a-file-sharing-system,medium,28,69,0.4057971014492754
+1919,Sort Features by Popularity,sort-features-by-popularity,medium,27,22,1.2272727272727273
+1937,Maximize the Beauty of the Garden,maximize-the-beauty-of-the-garden,hard,26,4,6.5
+1088,Number of Days in a Month,number-of-days-in-a-month,easy,23,124,0.18548387096774194
+1183,Statistics from a Large Sample,statistics-from-a-large-sample,medium,22,28,0.7857142857142857
+1997,Next Palindrome Using Same Digits,next-palindrome-using-same-digits,hard,21,1,21.0
+1943,Count Pairs of Equal Substrings With Minimum Difference,count-pairs-of-equal-substrings-with-minimum-difference,medium,21,27,0.7777777777777778
+351,Android Unlock Patterns,android-unlock-patterns,medium,18,11,1.6363636363636365
+2070,Check if String Is Decomposable Into Value-Equal Substrings,check-if-string-is-decomposable-into-value-equal-substrings,easy,17,3,5.666666666666667
+1655,Move Sub-Tree of N-Ary Tree,move-sub-tree-of-n-ary-tree,hard,17,28,0.6071428571428571
+1809,Sum Of Special Evenly-Spaced Elements In Array,sum-of-special-evenly-spaced-elements-in-array,hard,14,13,1.0769230769230769
+156,Binary Tree Upside Down,binary-tree-upside-down,medium,11,29,0.3793103448275862
+754,Cracking the Safe,cracking-the-safe,hard,7,1,7.0
+2073,Minimum Time For K Virus Variants to Spread,minimum-time-for-k-virus-variants-to-spread,hard,6,1,6.0
+2062,Game of Nim,game-of-nim,medium,6,10,0.6
+2074,Erect the Fence II,erect-the-fence-ii,hard,4,13,0.3076923076923077
+752,IP to CIDR,ip-to-cidr,medium,4,14,0.2857142857142857
+864,Image Overlap,image-overlap,medium,3,0,1000
