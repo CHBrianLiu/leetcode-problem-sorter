@@ -34,7 +34,7 @@ $ leetcode-sorter --difficulty easy
 Export to CSV file in the project root folder and sorted by likes-to-dislikes ratio.
 
 ```bash
-$ leetcode-sorter --sorted_by ratio --csv_path ratio.csv
+$ leetcode-sorter --sort_by ratio --csv_path ratio.csv
 ```
 
 ### Available options
