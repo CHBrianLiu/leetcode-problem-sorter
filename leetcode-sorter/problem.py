@@ -130,7 +130,7 @@ class ProblemHandler:
     def export_to_csv(self, path: str):
         full_path = os.path.join(os.path.curdir, path)
         with open(full_path, "w") as csvfile:
-            fields = ["id", "title", "title_slug", "likes", "dislikes", "ratio"]
+            fields = ["id", "title", "title_slug", "difficulty", "likes", "dislikes", "ratio"]
             writer = csv.DictWriter(csvfile, fieldnames=fields)
             writer.writeheader()
             for problem in self.problems:
@@ -139,6 +139,7 @@ class ProblemHandler:
                         "id": problem.stat.question_id,
                         "title": problem.stat.question__title,
                         "title_slug": problem.stat.question__title_slug,
+                        "difficulty": DifficultyLevel(problem.difficulty.level).name,
                         "likes": problem.likes,
                         "dislikes": problem.dislikes,
                         "ratio": problem.likes / problem.dislikes
