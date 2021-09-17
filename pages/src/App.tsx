@@ -1,12 +1,15 @@
 import ProblemList from "./components/ProblemList";
 import IntroSection from "./components/Intro";
-import { Separator } from '@fluentui/react/lib/Separator';
+import { Separator } from "@fluentui/react/lib/Separator";
 import { initializeIcons } from "@fluentui/font-icons-mdl2";
 import { Stack, IStackStyles, IStackTokens } from "@fluentui/react/lib/Stack";
 
 const stactStyle: IStackStyles = {
   root: {
     padding: 10,
+    maxWidth: 900,
+    marginLeft: "auto",
+    marginRight: "auto",
   },
 };
 
