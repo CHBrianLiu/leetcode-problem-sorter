@@ -1,5 +1,8 @@
 name: Update problem list
-on: workflow_dispatch
+on:
+  schedule:
+    # on mondays
+    - cron:  '0 0 * * 1'
 jobs:
   update_and_commit:
     runs-on: ubuntu-18.04
